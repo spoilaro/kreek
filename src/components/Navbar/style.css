@@ -1,0 +1,28 @@
+.navBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: #1F3480;
+}
+
+.searchBarInput {
+    padding: 10px;
+    width: 400px;
+    border: none;
+    border-radius: 20px 0px 0px 20px;
+}
+
+
+.searchBarButton {
+    padding: 10px;
+    border: none;
+    width: 80px;
+    background-color: #A9A9A9;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.searchBarButton:hover {
+    background-color: #808080;
+}
