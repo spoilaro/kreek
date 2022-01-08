@@ -1,18 +1,23 @@
 import Footer from "./components/Footer";
+import NewsCard from "./components/NewsCard";
 
 function App() {
-  return (
+  return (<div>
     <div
       style={{
         display: "flex",
         justifyContent: "center",
-        height: "100vh",
+        height: "50vh",
+        width: "30vw",
         alignItems: "center",
         fontSize: "5rem",
         color: "pink",
       }}
     >
       <h1>Kreek</h1>
+      
+    </div>
+    <NewsCard></NewsCard>
     </div>
   );
 }

@@ -1,0 +1,15 @@
+.newsCard {
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    width: 30vw;
+    border-radius: 1ch;
+    
+}
+
+.list {
+    align-items: center;
+    justify-content: center;
+
+}
