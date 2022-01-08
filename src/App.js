@@ -1,18 +1,11 @@
-import Footer from "./components/Footer";
+
+import Navbar from "./components/Navbar";
+/* import Footer from "./components/Footer"; */
 
 function App() {
   return (
-    <div
-      style={{
-        display: "flex",
-        justifyContent: "center",
-        height: "100vh",
-        alignItems: "center",
-        fontSize: "5rem",
-        color: "pink",
-      }}
-    >
-      <h1>Kreek</h1>
+    <div>
+      <Navbar/>
     </div>
   );
 }
