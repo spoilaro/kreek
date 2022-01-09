@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import {
   AreaChart,
-  Line,
   Tooltip,
   XAxis,
   YAxis,
@@ -19,18 +18,21 @@ const get_thl_data = async (place_name) => {
 export default function Graph({ place }) {
   const [thl_data, set_thl_data] = useState({});
 
-  useEffect(async () => {
-    let parsed_data = [];
+  useEffect(() => {
+    async function fetchData() {
+      let parsed_data = [];
 
-    const res = await get_thl_data(place);
+      const res = await get_thl_data(place);
 
-    for (const [key, value] of Object.entries(res.data.value)) {
-      //parsed_data.push({ key, value: value / 5.531 });
-      parsed_data.push({ key: `Week ${key}`, value });
+      for (const [key, value] of Object.entries(res.data.value)) {
+        //parsed_data.push({ key, value: value / 5.531 });
+        parsed_data.push({ key: `Week ${key}`, value });
+      }
+      parsed_data.pop();
+      set_thl_data(parsed_data);
+      console.log(parsed_data);
     }
-    parsed_data.pop();
-    set_thl_data(parsed_data);
-    console.log(parsed_data);
+    fetchData();
   }, [place]);
 
   return (
@@ -48,7 +50,7 @@ export default function Graph({ place }) {
         </defs>
         <Area dataKey="value" stroke="red" fill="url(#chartcolor)" />
         <XAxis dataKey="key" />
-        <YAxis dataKey="value" type="number" domain={[0, 300000]} />
+        <YAxis dataKey="value" type="number" domain={[0, 20000]} />
         <Tooltip />
         <CartesianGrid opacity={0.1} vertical={false} />
       </AreaChart>
