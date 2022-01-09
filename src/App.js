@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 /* import Footer from "./components/Footer"; */
+import Graph from "./components/Graph";
 import { useState } from "react";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
   return (
     <div>
       <Navbar searchFn={setSearchWord} />
+      <Graph />
     </div>
   );
 }
