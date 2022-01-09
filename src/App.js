@@ -1,4 +1,5 @@
 import Footer from "./components/Footer";
+import Graph from "./components/Graph";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       }}
     >
       <h1>Kreek</h1>
+      <Graph />
     </div>
   );
 }
