@@ -10,19 +10,19 @@ import {
 } from "recharts";
 import axios from "axios";
 
-const get_thl_data = async () => {
+const get_thl_data = async (place_name) => {
   const url = "https://kreek.netlify.app/.netlify/functions/data";
-  const res = await axios.get(url);
+  const res = await axios.get(url, { params: { place: place_name } });
   return res;
 };
 
-export default function Graph() {
+export default function Graph({ place }) {
   const [thl_data, set_thl_data] = useState({});
 
   useEffect(async () => {
     let parsed_data = [];
 
-    const res = await get_thl_data();
+    const res = await get_thl_data(place);
 
     for (const [key, value] of Object.entries(res.data.value)) {
       //parsed_data.push({ key, value: value / 5.531 });
@@ -31,7 +31,7 @@ export default function Graph() {
     parsed_data.pop();
     set_thl_data(parsed_data);
     console.log(parsed_data);
-  }, []);
+  }, [place]);
 
   return (
     <div

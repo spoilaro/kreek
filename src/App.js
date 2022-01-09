@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <Navbar searchFn={setSearchWord} />
-      <Graph />
+      <Graph place={searchWord} />
     </div>
   );
 }
