@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from "react";
-import { LineChart, Line } from "recharts";
+import {
+  AreaChart,
+  Line,
+  Tooltip,
+  XAxis,
+  YAxis,
+  Area,
+  CartesianGrid,
+} from "recharts";
 import axios from "axios";
-
-const mock_data = [
-  { date: "12.1.2021", val: 2 },
-  { date: "13.1.2021", val: 5 },
-  { date: "14.1.2021", val: 3 },
-  { date: "15.1.2021", val: 1 },
-  { date: "16.1.2021", val: 7 },
-];
 
 const get_thl_data = async () => {
   const url = "https://kreek.netlify.app/.netlify/functions/data";
@@ -26,17 +26,32 @@ export default function Graph() {
 
     for (const [key, value] of Object.entries(res.data.value)) {
       //parsed_data.push({ key, value: value / 5.531 });
-      parsed_data.push({ key, value });
+      parsed_data.push({ key: `Week ${key}`, value });
     }
+    parsed_data.pop();
     set_thl_data(parsed_data);
     console.log(parsed_data);
   }, []);
 
   return (
-    <div>
-      <LineChart width={400} height={600} data={thl_data}>
-        <Line type="monotone" dataKey="value" stroke="black" />
-      </LineChart>
+    <div
+      style={{
+        fontSize: "0.5rem",
+      }}
+    >
+      <AreaChart width={400} height={300} data={thl_data}>
+        <defs>
+          <linearGradient id="chartcolor" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stopColor="pink" stopOpacity={0.4} />
+            <stop offset="75%" stopColor="pink" stopOpacity={0.05} />
+          </linearGradient>
+        </defs>
+        <Area dataKey="value" stroke="red" fill="url(#chartcolor)" />
+        <XAxis dataKey="key" />
+        <YAxis dataKey="value" type="number" domain={[0, 300000]} />
+        <Tooltip />
+        <CartesianGrid opacity={0.1} vertical={false} />
+      </AreaChart>
     </div>
   );
 }

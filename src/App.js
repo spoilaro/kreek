@@ -14,7 +14,6 @@ function App() {
       }}
     >
       <h1>Kreek</h1>
-      <Graph />
     </div>
   );
 }
