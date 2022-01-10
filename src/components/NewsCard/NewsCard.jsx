@@ -23,7 +23,6 @@ export default function NewsCard() {
             //elem.category.includes("koronavirus");
             if (elem.category.includes("koronavirus")) {
               parsed_items.push({ title: elem.title, link: elem.guid });
-              console.log(elem);
             }
           });
           setArticles(parsed_items);
