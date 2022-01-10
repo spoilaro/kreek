@@ -2,10 +2,11 @@
     background-color: gray;
     align-items: center;
     justify-content: center;
+    width: 30%;
     height: 50vh;
-    width: 30vw;
     border-radius: 1ch;
-    
+    padding: 5px;
+    overflow-y: scroll;
 }
 
 .list {

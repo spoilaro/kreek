@@ -57,7 +57,7 @@ export default function Graph({ place }) {
         </defs>
         <Area dataKey="value" stroke="red" fill="url(#chartcolor)" />
         <XAxis dataKey="key" />
-        <YAxis dataKey="value" type="number" domain={[0, 20000]} />
+        <YAxis dataKey="value" type="number" domain={[0, 10000]} />
         <Tooltip />
         <CartesianGrid opacity={0.1} vertical={false} />
       </AreaChart>

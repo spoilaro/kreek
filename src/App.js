@@ -11,9 +11,10 @@ function App() {
     <div>
       <Navbar searchFn={setSearchWord} />
       <Graph place={searchWord} />
-      <NewsCard />
+      <NewsCard/>
     </div>
   );
 }
+
 
 export default App;
