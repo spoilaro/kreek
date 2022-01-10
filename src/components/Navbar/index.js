@@ -23,6 +23,7 @@ export default function Navbar({ searchFn }) {
 
   return (
     <div className="navBar">
+      <h1 className="title">KREEK</h1>
       <Dropdown options={places} onChange={handleChange} />
     </div>
   );

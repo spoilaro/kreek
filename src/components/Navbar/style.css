@@ -7,22 +7,12 @@
     background-color: #1F3480;
 }
 
-.searchBarInput {
-    padding: 10px;
-    width: 400px;
-    border: none;
-    border-radius: 20px 0px 0px 20px;
+.title {
+    position: absolute;
+    left: 50px;
+    color: white;
 }
 
-
-.searchBarButton {
-    padding: 10px;
-    border: none;
-    width: 80px;
-    background-color: #A9A9A9;
-    border-radius: 0px 20px 20px 0px;
-}
-
-.searchBarButton:hover {
-    background-color: #808080;
+.Dropdown-control {
+    width: 300px;
 }
