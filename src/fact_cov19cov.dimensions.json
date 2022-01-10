@@ -1,0 +1,8761 @@
+[
+{
+	"id":"area",
+	"label":"Alue",
+	"children": [
+{
+	"id":"area1",
+	"sid":518362,
+	"label":"Kaikki alueet",
+	"stage":"root",
+	"code":"allarea",
+	"sort":1,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/root/allarea",
+	"children": [
+{
+	"id":"area2",
+	"sid":518327,
+	"label":"Ahvenanmaa",
+	"stage":"sairaanhoitopiiri",
+	"code":"00",
+	"sort":2,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/00",
+	"children": [
+{
+	"id":"area24",
+	"sid":518376,
+	"label":"Brändö",
+	"stage":"kunta",
+	"code":"035",
+	"sort":24,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/035",
+	"children": []
+
+},
+{
+	"id":"area25",
+	"sid":518367,
+	"label":"Eckerö",
+	"stage":"kunta",
+	"code":"043",
+	"sort":25,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/043",
+	"children": []
+
+},
+{
+	"id":"area26",
+	"sid":518380,
+	"label":"Finström",
+	"stage":"kunta",
+	"code":"060",
+	"sort":26,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/060",
+	"children": []
+
+},
+{
+	"id":"area27",
+	"sid":518302,
+	"label":"Föglö",
+	"stage":"kunta",
+	"code":"062",
+	"sort":27,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/062",
+	"children": []
+
+},
+{
+	"id":"area28",
+	"sid":518329,
+	"label":"Geta",
+	"stage":"kunta",
+	"code":"065",
+	"sort":28,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/065",
+	"children": []
+
+},
+{
+	"id":"area29",
+	"sid":518304,
+	"label":"Hammarland",
+	"stage":"kunta",
+	"code":"076",
+	"sort":29,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/076",
+	"children": []
+
+},
+{
+	"id":"area30",
+	"sid":518347,
+	"label":"Jomala",
+	"stage":"kunta",
+	"code":"170",
+	"sort":30,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/170",
+	"children": []
+
+},
+{
+	"id":"area31",
+	"sid":518359,
+	"label":"Kumlinge",
+	"stage":"kunta",
+	"code":"295",
+	"sort":31,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/295",
+	"children": []
+
+},
+{
+	"id":"area32",
+	"sid":518375,
+	"label":"Kökar",
+	"stage":"kunta",
+	"code":"318",
+	"sort":32,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/318",
+	"children": []
+
+},
+{
+	"id":"area33",
+	"sid":518360,
+	"label":"Lemland",
+	"stage":"kunta",
+	"code":"417",
+	"sort":33,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/417",
+	"children": []
+
+},
+{
+	"id":"area34",
+	"sid":518363,
+	"label":"Lumparland",
+	"stage":"kunta",
+	"code":"438",
+	"sort":34,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/438",
+	"children": []
+
+},
+{
+	"id":"area35",
+	"sid":518325,
+	"label":"Maarianhamina",
+	"stage":"kunta",
+	"code":"478",
+	"sort":35,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/478",
+	"children": []
+
+},
+{
+	"id":"area36",
+	"sid":518337,
+	"label":"Saltvik",
+	"stage":"kunta",
+	"code":"736",
+	"sort":36,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/736",
+	"children": []
+
+},
+{
+	"id":"area37",
+	"sid":518299,
+	"label":"Sottunga",
+	"stage":"kunta",
+	"code":"766",
+	"sort":37,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/766",
+	"children": []
+
+},
+{
+	"id":"area38",
+	"sid":518361,
+	"label":"Sund",
+	"stage":"kunta",
+	"code":"771",
+	"sort":38,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/771",
+	"children": []
+
+},
+{
+	"id":"area39",
+	"sid":518311,
+	"label":"Vårdö",
+	"stage":"kunta",
+	"code":"941",
+	"sort":39,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/941",
+	"children": []
+
+}]
+},
+{
+	"id":"area3",
+	"sid":518294,
+	"label":"Etelä-Karjalan SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"09",
+	"sort":3,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/09",
+	"children": [
+{
+	"id":"area40",
+	"sid":184024,
+	"label":"Imatra",
+	"stage":"kunta",
+	"code":"153",
+	"sort":40,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/153",
+	"children": []
+
+},
+{
+	"id":"area41",
+	"sid":184144,
+	"label":"Lappeenranta",
+	"stage":"kunta",
+	"code":"405",
+	"sort":41,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/405",
+	"children": []
+
+},
+{
+	"id":"area42",
+	"sid":184720,
+	"label":"Lemi",
+	"stage":"kunta",
+	"code":"416",
+	"sort":42,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/416",
+	"children": []
+
+},
+{
+	"id":"area43",
+	"sid":184401,
+	"label":"Luumäki",
+	"stage":"kunta",
+	"code":"441",
+	"sort":43,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/441",
+	"children": []
+
+},
+{
+	"id":"area44",
+	"sid":184748,
+	"label":"Parikkala",
+	"stage":"kunta",
+	"code":"580",
+	"sort":44,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/580",
+	"children": []
+
+},
+{
+	"id":"area45",
+	"sid":184729,
+	"label":"Rautjärvi",
+	"stage":"kunta",
+	"code":"689",
+	"sort":45,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/689",
+	"children": []
+
+},
+{
+	"id":"area46",
+	"sid":184639,
+	"label":"Ruokolahti",
+	"stage":"kunta",
+	"code":"700",
+	"sort":46,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/700",
+	"children": []
+
+},
+{
+	"id":"area47",
+	"sid":184382,
+	"label":"Savitaipale",
+	"stage":"kunta",
+	"code":"739",
+	"sort":47,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/739",
+	"children": []
+
+},
+{
+	"id":"area48",
+	"sid":183999,
+	"label":"Taipalsaari",
+	"stage":"kunta",
+	"code":"831",
+	"sort":48,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/831",
+	"children": []
+
+}]
+},
+{
+	"id":"area4",
+	"sid":518309,
+	"label":"Etelä-Pohjanmaan SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"15",
+	"sort":4,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/15",
+	"children": [
+{
+	"id":"area49",
+	"sid":184187,
+	"label":"Alajärvi",
+	"stage":"kunta",
+	"code":"005",
+	"sort":49,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/005",
+	"children": []
+
+},
+{
+	"id":"area50",
+	"sid":184286,
+	"label":"Alavus",
+	"stage":"kunta",
+	"code":"010",
+	"sort":50,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/010",
+	"children": []
+
+},
+{
+	"id":"area51",
+	"sid":184202,
+	"label":"Evijärvi",
+	"stage":"kunta",
+	"code":"052",
+	"sort":51,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/052",
+	"children": []
+
+},
+{
+	"id":"area52",
+	"sid":184391,
+	"label":"Ilmajoki",
+	"stage":"kunta",
+	"code":"145",
+	"sort":52,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/145",
+	"children": []
+
+},
+{
+	"id":"area53",
+	"sid":184271,
+	"label":"Isojoki",
+	"stage":"kunta",
+	"code":"151",
+	"sort":53,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/151",
+	"children": []
+
+},
+{
+	"id":"area54",
+	"sid":184539,
+	"label":"Isokyrö",
+	"stage":"kunta",
+	"code":"152",
+	"sort":54,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/152",
+	"children": []
+
+},
+{
+	"id":"area55",
+	"sid":184180,
+	"label":"Karijoki",
+	"stage":"kunta",
+	"code":"218",
+	"sort":55,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/218",
+	"children": []
+
+},
+{
+	"id":"area56",
+	"sid":184754,
+	"label":"Kauhajoki",
+	"stage":"kunta",
+	"code":"232",
+	"sort":56,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/232",
+	"children": []
+
+},
+{
+	"id":"area57",
+	"sid":184297,
+	"label":"Kauhava",
+	"stage":"kunta",
+	"code":"233",
+	"sort":57,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/233",
+	"children": []
+
+},
+{
+	"id":"area58",
+	"sid":184806,
+	"label":"Kuortane",
+	"stage":"kunta",
+	"code":"300",
+	"sort":58,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/300",
+	"children": []
+
+},
+{
+	"id":"area59",
+	"sid":184368,
+	"label":"Kurikka",
+	"stage":"kunta",
+	"code":"301",
+	"sort":59,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/301",
+	"children": []
+
+},
+{
+	"id":"area60",
+	"sid":184231,
+	"label":"Lappajärvi",
+	"stage":"kunta",
+	"code":"403",
+	"sort":60,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/403",
+	"children": []
+
+},
+{
+	"id":"area61",
+	"sid":184705,
+	"label":"Lapua",
+	"stage":"kunta",
+	"code":"408",
+	"sort":61,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/408",
+	"children": []
+
+},
+{
+	"id":"area62",
+	"sid":184518,
+	"label":"Seinäjoki",
+	"stage":"kunta",
+	"code":"743",
+	"sort":62,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/743",
+	"children": []
+
+},
+{
+	"id":"area63",
+	"sid":184396,
+	"label":"Soini",
+	"stage":"kunta",
+	"code":"759",
+	"sort":63,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/759",
+	"children": []
+
+},
+{
+	"id":"area64",
+	"sid":184676,
+	"label":"Teuva",
+	"stage":"kunta",
+	"code":"846",
+	"sort":64,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/846",
+	"children": []
+
+},
+{
+	"id":"area65",
+	"sid":184759,
+	"label":"Vimpeli",
+	"stage":"kunta",
+	"code":"934",
+	"sort":65,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/934",
+	"children": []
+
+},
+{
+	"id":"area66",
+	"sid":184195,
+	"label":"Ähtäri",
+	"stage":"kunta",
+	"code":"989",
+	"sort":66,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/989",
+	"children": []
+
+}]
+},
+{
+	"id":"area5",
+	"sid":518306,
+	"label":"Etelä-Savon SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"10",
+	"sort":5,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/10",
+	"children": [
+{
+	"id":"area67",
+	"sid":184471,
+	"label":"Hirvensalmi",
+	"stage":"kunta",
+	"code":"097",
+	"sort":67,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/097",
+	"children": []
+
+},
+{
+	"id":"area68",
+	"sid":184266,
+	"label":"Joroinen",
+	"stage":"kunta",
+	"code":"171",
+	"sort":68,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/171",
+	"children": []
+
+},
+{
+	"id":"area69",
+	"sid":184320,
+	"label":"Juva",
+	"stage":"kunta",
+	"code":"178",
+	"sort":69,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/178",
+	"children": []
+
+},
+{
+	"id":"area70",
+	"sid":184928,
+	"label":"Kangasniemi",
+	"stage":"kunta",
+	"code":"213",
+	"sort":70,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/213",
+	"children": []
+
+},
+{
+	"id":"area71",
+	"sid":184170,
+	"label":"Mikkeli",
+	"stage":"kunta",
+	"code":"491",
+	"sort":71,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/491",
+	"children": []
+
+},
+{
+	"id":"area72",
+	"sid":184080,
+	"label":"Mäntyharju",
+	"stage":"kunta",
+	"code":"507",
+	"sort":72,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/507",
+	"children": []
+
+},
+{
+	"id":"area73",
+	"sid":228990,
+	"label":"Pertunmaa",
+	"stage":"kunta",
+	"code":"588",
+	"sort":73,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/588",
+	"children": []
+
+},
+{
+	"id":"area74",
+	"sid":184435,
+	"label":"Pieksämäki",
+	"stage":"kunta",
+	"code":"593",
+	"sort":74,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/593",
+	"children": []
+
+},
+{
+	"id":"area75",
+	"sid":184706,
+	"label":"Puumala",
+	"stage":"kunta",
+	"code":"623",
+	"sort":75,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/623",
+	"children": []
+
+}]
+},
+{
+	"id":"area6",
+	"sid":518320,
+	"label":"Helsingin ja Uudenmaan SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"25",
+	"sort":6,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/25",
+	"children": [
+{
+	"id":"area76",
+	"sid":184604,
+	"label":"Askola",
+	"stage":"kunta",
+	"code":"018",
+	"sort":76,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/018",
+	"children": []
+
+},
+{
+	"id":"area77",
+	"sid":184736,
+	"label":"Espoo",
+	"stage":"kunta",
+	"code":"049",
+	"sort":77,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/049",
+	"children": []
+
+},
+{
+	"id":"area78",
+	"sid":184222,
+	"label":"Hanko",
+	"stage":"kunta",
+	"code":"078",
+	"sort":78,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/078",
+	"children": []
+
+},
+{
+	"id":"area79",
+	"sid":184287,
+	"label":"Helsinki",
+	"stage":"kunta",
+	"code":"091",
+	"sort":79,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/091",
+	"children": []
+
+},
+{
+	"id":"area80",
+	"sid":184788,
+	"label":"Hyvinkää",
+	"stage":"kunta",
+	"code":"106",
+	"sort":80,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/106",
+	"children": []
+
+},
+{
+	"id":"area81",
+	"sid":184330,
+	"label":"Inkoo",
+	"stage":"kunta",
+	"code":"149",
+	"sort":81,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/149",
+	"children": []
+
+},
+{
+	"id":"area82",
+	"sid":184703,
+	"label":"Järvenpää",
+	"stage":"kunta",
+	"code":"186",
+	"sort":82,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/186",
+	"children": []
+
+},
+{
+	"id":"area83",
+	"sid":184458,
+	"label":"Karkkila",
+	"stage":"kunta",
+	"code":"224",
+	"sort":83,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/224",
+	"children": []
+
+},
+{
+	"id":"area84",
+	"sid":184507,
+	"label":"Kauniainen",
+	"stage":"kunta",
+	"code":"235",
+	"sort":84,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/235",
+	"children": []
+
+},
+{
+	"id":"area85",
+	"sid":184226,
+	"label":"Kerava",
+	"stage":"kunta",
+	"code":"245",
+	"sort":85,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/245",
+	"children": []
+
+},
+{
+	"id":"area86",
+	"sid":184785,
+	"label":"Kirkkonummi",
+	"stage":"kunta",
+	"code":"257",
+	"sort":86,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/257",
+	"children": []
+
+},
+{
+	"id":"area87",
+	"sid":184353,
+	"label":"Lapinjärvi",
+	"stage":"kunta",
+	"code":"407",
+	"sort":87,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/407",
+	"children": []
+
+},
+{
+	"id":"area88",
+	"sid":184189,
+	"label":"Lohja",
+	"stage":"kunta",
+	"code":"444",
+	"sort":88,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/444",
+	"children": []
+
+},
+{
+	"id":"area89",
+	"sid":184695,
+	"label":"Loviisa",
+	"stage":"kunta",
+	"code":"434",
+	"sort":89,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/434",
+	"children": []
+
+},
+{
+	"id":"area90",
+	"sid":184798,
+	"label":"Mäntsälä",
+	"stage":"kunta",
+	"code":"505",
+	"sort":90,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/505",
+	"children": []
+
+},
+{
+	"id":"area91",
+	"sid":184110,
+	"label":"Nurmijärvi",
+	"stage":"kunta",
+	"code":"543",
+	"sort":91,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/543",
+	"children": []
+
+},
+{
+	"id":"area92",
+	"sid":183997,
+	"label":"Pornainen",
+	"stage":"kunta",
+	"code":"611",
+	"sort":92,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/611",
+	"children": []
+
+},
+{
+	"id":"area93",
+	"sid":183977,
+	"label":"Porvoo",
+	"stage":"kunta",
+	"code":"638",
+	"sort":93,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/638",
+	"children": []
+
+},
+{
+	"id":"area94",
+	"sid":184101,
+	"label":"Raasepori",
+	"stage":"kunta",
+	"code":"710",
+	"sort":94,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/710",
+	"children": []
+
+},
+{
+	"id":"area95",
+	"sid":184600,
+	"label":"Sipoo",
+	"stage":"kunta",
+	"code":"753",
+	"sort":95,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/753",
+	"children": []
+
+},
+{
+	"id":"area96",
+	"sid":184465,
+	"label":"Siuntio",
+	"stage":"kunta",
+	"code":"755",
+	"sort":96,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/755",
+	"children": []
+
+},
+{
+	"id":"area97",
+	"sid":184644,
+	"label":"Tuusula",
+	"stage":"kunta",
+	"code":"858",
+	"sort":97,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/858",
+	"children": []
+
+},
+{
+	"id":"area98",
+	"sid":184424,
+	"label":"Vantaa",
+	"stage":"kunta",
+	"code":"092",
+	"sort":98,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/092",
+	"children": []
+
+},
+{
+	"id":"area99",
+	"sid":184218,
+	"label":"Vihti",
+	"stage":"kunta",
+	"code":"927",
+	"sort":99,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/927",
+	"children": []
+
+}]
+},
+{
+	"id":"area7",
+	"sid":518377,
+	"label":"Itä-Savon SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"11",
+	"sort":7,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/11",
+	"children": [
+{
+	"id":"area100",
+	"sid":184123,
+	"label":"Enonkoski",
+	"stage":"kunta",
+	"code":"046",
+	"sort":100,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/046",
+	"children": []
+
+},
+{
+	"id":"area101",
+	"sid":184230,
+	"label":"Rantasalmi",
+	"stage":"kunta",
+	"code":"681",
+	"sort":101,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/681",
+	"children": []
+
+},
+{
+	"id":"area102",
+	"sid":184188,
+	"label":"Savonlinna",
+	"stage":"kunta",
+	"code":"740",
+	"sort":102,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/740",
+	"children": []
+
+},
+{
+	"id":"area103",
+	"sid":184673,
+	"label":"Sulkava",
+	"stage":"kunta",
+	"code":"768",
+	"sort":103,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/768",
+	"children": []
+
+}]
+},
+{
+	"id":"area8",
+	"sid":518303,
+	"label":"Kainuun SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"19",
+	"sort":8,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/19",
+	"children": [
+{
+	"id":"area104",
+	"sid":184057,
+	"label":"Hyrynsalmi",
+	"stage":"kunta",
+	"code":"105",
+	"sort":104,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/105",
+	"children": []
+
+},
+{
+	"id":"area105",
+	"sid":184005,
+	"label":"Kajaani",
+	"stage":"kunta",
+	"code":"205",
+	"sort":105,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/205",
+	"children": []
+
+},
+{
+	"id":"area106",
+	"sid":184133,
+	"label":"Kuhmo",
+	"stage":"kunta",
+	"code":"290",
+	"sort":106,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/290",
+	"children": []
+
+},
+{
+	"id":"area107",
+	"sid":184800,
+	"label":"Paltamo",
+	"stage":"kunta",
+	"code":"578",
+	"sort":107,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/578",
+	"children": []
+
+},
+{
+	"id":"area108",
+	"sid":183968,
+	"label":"Puolanka",
+	"stage":"kunta",
+	"code":"620",
+	"sort":108,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/620",
+	"children": []
+
+},
+{
+	"id":"area109",
+	"sid":184131,
+	"label":"Ristijärvi",
+	"stage":"kunta",
+	"code":"697",
+	"sort":109,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/697",
+	"children": []
+
+},
+{
+	"id":"area110",
+	"sid":184619,
+	"label":"Sotkamo",
+	"stage":"kunta",
+	"code":"765",
+	"sort":110,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/765",
+	"children": []
+
+},
+{
+	"id":"area111",
+	"sid":184042,
+	"label":"Suomussalmi",
+	"stage":"kunta",
+	"code":"777",
+	"sort":111,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/777",
+	"children": []
+
+}]
+},
+{
+	"id":"area9",
+	"sid":518340,
+	"label":"Kanta-Hämeen SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"05",
+	"sort":9,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/05",
+	"children": [
+{
+	"id":"area112",
+	"sid":184775,
+	"label":"Forssa",
+	"stage":"kunta",
+	"code":"061",
+	"sort":112,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/061",
+	"children": []
+
+},
+{
+	"id":"area113",
+	"sid":184390,
+	"label":"Hattula",
+	"stage":"kunta",
+	"code":"082",
+	"sort":113,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/082",
+	"children": []
+
+},
+{
+	"id":"area114",
+	"sid":229144,
+	"label":"Hausjärvi",
+	"stage":"kunta",
+	"code":"086",
+	"sort":114,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/086",
+	"children": []
+
+},
+{
+	"id":"area115",
+	"sid":184661,
+	"label":"Humppila",
+	"stage":"kunta",
+	"code":"103",
+	"sort":115,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/103",
+	"children": []
+
+},
+{
+	"id":"area116",
+	"sid":184427,
+	"label":"Hämeenlinna",
+	"stage":"kunta",
+	"code":"109",
+	"sort":116,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/109",
+	"children": []
+
+},
+{
+	"id":"area117",
+	"sid":184047,
+	"label":"Janakkala",
+	"stage":"kunta",
+	"code":"165",
+	"sort":117,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/165",
+	"children": []
+
+},
+{
+	"id":"area118",
+	"sid":184490,
+	"label":"Jokioinen",
+	"stage":"kunta",
+	"code":"169",
+	"sort":118,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/169",
+	"children": []
+
+},
+{
+	"id":"area119",
+	"sid":184791,
+	"label":"Loppi",
+	"stage":"kunta",
+	"code":"433",
+	"sort":119,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/433",
+	"children": []
+
+},
+{
+	"id":"area120",
+	"sid":184763,
+	"label":"Riihimäki",
+	"stage":"kunta",
+	"code":"694",
+	"sort":120,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/694",
+	"children": []
+
+},
+{
+	"id":"area121",
+	"sid":184686,
+	"label":"Tammela",
+	"stage":"kunta",
+	"code":"834",
+	"sort":121,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/834",
+	"children": []
+
+},
+{
+	"id":"area122",
+	"sid":184339,
+	"label":"Ypäjä",
+	"stage":"kunta",
+	"code":"981",
+	"sort":122,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/981",
+	"children": []
+
+}]
+},
+{
+	"id":"area10",
+	"sid":518369,
+	"label":"Keski-Pohjanmaan SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"17",
+	"sort":10,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/17",
+	"children": [
+{
+	"id":"area123",
+	"sid":228777,
+	"label":"Halsua",
+	"stage":"kunta",
+	"code":"074",
+	"sort":123,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/074",
+	"children": []
+
+},
+{
+	"id":"area124",
+	"sid":184771,
+	"label":"Kannus",
+	"stage":"kunta",
+	"code":"217",
+	"sort":124,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/217",
+	"children": []
+
+},
+{
+	"id":"area125",
+	"sid":228462,
+	"label":"Kaustinen",
+	"stage":"kunta",
+	"code":"236",
+	"sort":125,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/236",
+	"children": []
+
+},
+{
+	"id":"area126",
+	"sid":184813,
+	"label":"Kokkola",
+	"stage":"kunta",
+	"code":"272",
+	"sort":126,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/272",
+	"children": []
+
+},
+{
+	"id":"area127",
+	"sid":183971,
+	"label":"Kruunupyy",
+	"stage":"kunta",
+	"code":"288",
+	"sort":127,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/288",
+	"children": []
+
+},
+{
+	"id":"area128",
+	"sid":184252,
+	"label":"Lestijärvi",
+	"stage":"kunta",
+	"code":"421",
+	"sort":128,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/421",
+	"children": []
+
+},
+{
+	"id":"area129",
+	"sid":184295,
+	"label":"Perho",
+	"stage":"kunta",
+	"code":"584",
+	"sort":129,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/584",
+	"children": []
+
+},
+{
+	"id":"area130",
+	"sid":184105,
+	"label":"Reisjärvi",
+	"stage":"kunta",
+	"code":"691",
+	"sort":130,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/691",
+	"children": []
+
+},
+{
+	"id":"area131",
+	"sid":184716,
+	"label":"Toholampi",
+	"stage":"kunta",
+	"code":"849",
+	"sort":131,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/849",
+	"children": []
+
+},
+{
+	"id":"area132",
+	"sid":184026,
+	"label":"Veteli",
+	"stage":"kunta",
+	"code":"924",
+	"sort":132,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/924",
+	"children": []
+
+}]
+},
+{
+	"id":"area11",
+	"sid":518295,
+	"label":"Keski-Suomen SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"14",
+	"sort":11,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/14",
+	"children": [
+{
+	"id":"area133",
+	"sid":184167,
+	"label":"Hankasalmi",
+	"stage":"kunta",
+	"code":"077",
+	"sort":133,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/077",
+	"children": []
+
+},
+{
+	"id":"area134",
+	"sid":184065,
+	"label":"Joutsa",
+	"stage":"kunta",
+	"code":"172",
+	"sort":134,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/172",
+	"children": []
+
+},
+{
+	"id":"area135",
+	"sid":184517,
+	"label":"Jyväskylä",
+	"stage":"kunta",
+	"code":"179",
+	"sort":135,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/179",
+	"children": []
+
+},
+{
+	"id":"area136",
+	"sid":184753,
+	"label":"Kannonkoski",
+	"stage":"kunta",
+	"code":"216",
+	"sort":136,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/216",
+	"children": []
+
+},
+{
+	"id":"area137",
+	"sid":184011,
+	"label":"Karstula",
+	"stage":"kunta",
+	"code":"226",
+	"sort":137,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/226",
+	"children": []
+
+},
+{
+	"id":"area138",
+	"sid":184494,
+	"label":"Keuruu",
+	"stage":"kunta",
+	"code":"249",
+	"sort":138,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/249",
+	"children": []
+
+},
+{
+	"id":"area139",
+	"sid":184146,
+	"label":"Kinnula",
+	"stage":"kunta",
+	"code":"256",
+	"sort":139,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/256",
+	"children": []
+
+},
+{
+	"id":"area140",
+	"sid":184415,
+	"label":"Kivijärvi",
+	"stage":"kunta",
+	"code":"265",
+	"sort":140,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/265",
+	"children": []
+
+},
+{
+	"id":"area141",
+	"sid":184584,
+	"label":"Konnevesi",
+	"stage":"kunta",
+	"code":"275",
+	"sort":141,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/275",
+	"children": []
+
+},
+{
+	"id":"area142",
+	"sid":184149,
+	"label":"Kyyjärvi",
+	"stage":"kunta",
+	"code":"312",
+	"sort":142,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/312",
+	"children": []
+
+},
+{
+	"id":"area143",
+	"sid":184217,
+	"label":"Laukaa",
+	"stage":"kunta",
+	"code":"410",
+	"sort":143,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/410",
+	"children": []
+
+},
+{
+	"id":"area144",
+	"sid":184288,
+	"label":"Luhanka",
+	"stage":"kunta",
+	"code":"435",
+	"sort":144,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/435",
+	"children": []
+
+},
+{
+	"id":"area145",
+	"sid":184200,
+	"label":"Multia",
+	"stage":"kunta",
+	"code":"495",
+	"sort":145,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/495",
+	"children": []
+
+},
+{
+	"id":"area146",
+	"sid":184402,
+	"label":"Muurame",
+	"stage":"kunta",
+	"code":"500",
+	"sort":146,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/500",
+	"children": []
+
+},
+{
+	"id":"area147",
+	"sid":184265,
+	"label":"Petäjävesi",
+	"stage":"kunta",
+	"code":"592",
+	"sort":147,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/592",
+	"children": []
+
+},
+{
+	"id":"area148",
+	"sid":184542,
+	"label":"Pihtipudas",
+	"stage":"kunta",
+	"code":"601",
+	"sort":148,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/601",
+	"children": []
+
+},
+{
+	"id":"area149",
+	"sid":184412,
+	"label":"Saarijärvi",
+	"stage":"kunta",
+	"code":"729",
+	"sort":149,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/729",
+	"children": []
+
+},
+{
+	"id":"area150",
+	"sid":184689,
+	"label":"Toivakka",
+	"stage":"kunta",
+	"code":"850",
+	"sort":150,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/850",
+	"children": []
+
+},
+{
+	"id":"area151",
+	"sid":184108,
+	"label":"Uurainen",
+	"stage":"kunta",
+	"code":"892",
+	"sort":151,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/892",
+	"children": []
+
+},
+{
+	"id":"area152",
+	"sid":184760,
+	"label":"Viitasaari",
+	"stage":"kunta",
+	"code":"931",
+	"sort":152,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/931",
+	"children": []
+
+},
+{
+	"id":"area153",
+	"sid":184191,
+	"label":"Äänekoski",
+	"stage":"kunta",
+	"code":"992",
+	"sort":153,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/992",
+	"children": []
+
+}]
+},
+{
+	"id":"area12",
+	"sid":518335,
+	"label":"Kymenlaakson SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"08",
+	"sort":12,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/08",
+	"children": [
+{
+	"id":"area154",
+	"sid":184819,
+	"label":"Hamina",
+	"stage":"kunta",
+	"code":"075",
+	"sort":154,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/075",
+	"children": []
+
+},
+{
+	"id":"area155",
+	"sid":184345,
+	"label":"Kotka",
+	"stage":"kunta",
+	"code":"285",
+	"sort":155,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/285",
+	"children": []
+
+},
+{
+	"id":"area156",
+	"sid":183973,
+	"label":"Kouvola",
+	"stage":"kunta",
+	"code":"286",
+	"sort":156,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/286",
+	"children": []
+
+},
+{
+	"id":"area157",
+	"sid":184016,
+	"label":"Miehikkälä",
+	"stage":"kunta",
+	"code":"489",
+	"sort":157,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/489",
+	"children": []
+
+},
+{
+	"id":"area158",
+	"sid":183979,
+	"label":"Pyhtää",
+	"stage":"kunta",
+	"code":"624",
+	"sort":158,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/624",
+	"children": []
+
+},
+{
+	"id":"area159",
+	"sid":184256,
+	"label":"Virolahti",
+	"stage":"kunta",
+	"code":"935",
+	"sort":159,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/935",
+	"children": []
+
+}]
+},
+{
+	"id":"area13",
+	"sid":518322,
+	"label":"Lapin SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"21",
+	"sort":13,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/21",
+	"children": [
+{
+	"id":"area160",
+	"sid":184503,
+	"label":"Enontekiö",
+	"stage":"kunta",
+	"code":"047",
+	"sort":160,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/047",
+	"children": []
+
+},
+{
+	"id":"area161",
+	"sid":184514,
+	"label":"Inari",
+	"stage":"kunta",
+	"code":"148",
+	"sort":161,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/148",
+	"children": []
+
+},
+{
+	"id":"area162",
+	"sid":184352,
+	"label":"Kemijärvi",
+	"stage":"kunta",
+	"code":"320",
+	"sort":162,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/320",
+	"children": []
+
+},
+{
+	"id":"area163",
+	"sid":184638,
+	"label":"Kittilä",
+	"stage":"kunta",
+	"code":"261",
+	"sort":163,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/261",
+	"children": []
+
+},
+{
+	"id":"area164",
+	"sid":184175,
+	"label":"Kolari",
+	"stage":"kunta",
+	"code":"273",
+	"sort":164,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/273",
+	"children": []
+
+},
+{
+	"id":"area165",
+	"sid":184452,
+	"label":"Muonio",
+	"stage":"kunta",
+	"code":"498",
+	"sort":165,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/498",
+	"children": []
+
+},
+{
+	"id":"area166",
+	"sid":184338,
+	"label":"Pelkosenniemi",
+	"stage":"kunta",
+	"code":"583",
+	"sort":166,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/583",
+	"children": []
+
+},
+{
+	"id":"area167",
+	"sid":184610,
+	"label":"Pello",
+	"stage":"kunta",
+	"code":"854",
+	"sort":167,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/854",
+	"children": []
+
+},
+{
+	"id":"area168",
+	"sid":184023,
+	"label":"Posio",
+	"stage":"kunta",
+	"code":"614",
+	"sort":168,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/614",
+	"children": []
+
+},
+{
+	"id":"area169",
+	"sid":184670,
+	"label":"Ranua",
+	"stage":"kunta",
+	"code":"683",
+	"sort":169,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/683",
+	"children": []
+
+},
+{
+	"id":"area170",
+	"sid":184007,
+	"label":"Rovaniemi",
+	"stage":"kunta",
+	"code":"698",
+	"sort":170,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/698",
+	"children": []
+
+},
+{
+	"id":"area171",
+	"sid":184393,
+	"label":"Salla",
+	"stage":"kunta",
+	"code":"732",
+	"sort":171,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/732",
+	"children": []
+
+},
+{
+	"id":"area172",
+	"sid":184725,
+	"label":"Savukoski",
+	"stage":"kunta",
+	"code":"742",
+	"sort":172,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/742",
+	"children": []
+
+},
+{
+	"id":"area173",
+	"sid":184276,
+	"label":"Sodankylä",
+	"stage":"kunta",
+	"code":"758",
+	"sort":173,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/758",
+	"children": []
+
+},
+{
+	"id":"area174",
+	"sid":184802,
+	"label":"Utsjoki",
+	"stage":"kunta",
+	"code":"890",
+	"sort":174,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/890",
+	"children": []
+
+}]
+},
+{
+	"id":"area14",
+	"sid":518353,
+	"label":"Länsi-Pohjan SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"20",
+	"sort":14,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/20",
+	"children": [
+{
+	"id":"area175",
+	"sid":184052,
+	"label":"Kemi",
+	"stage":"kunta",
+	"code":"240",
+	"sort":175,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/240",
+	"children": []
+
+},
+{
+	"id":"area176",
+	"sid":184694,
+	"label":"Keminmaa",
+	"stage":"kunta",
+	"code":"241",
+	"sort":176,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/241",
+	"children": []
+
+},
+{
+	"id":"area177",
+	"sid":184384,
+	"label":"Simo",
+	"stage":"kunta",
+	"code":"751",
+	"sort":177,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/751",
+	"children": []
+
+},
+{
+	"id":"area178",
+	"sid":184820,
+	"label":"Tervola",
+	"stage":"kunta",
+	"code":"845",
+	"sort":178,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/845",
+	"children": []
+
+},
+{
+	"id":"area179",
+	"sid":184628,
+	"label":"Tornio",
+	"stage":"kunta",
+	"code":"851",
+	"sort":179,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/851",
+	"children": []
+
+},
+{
+	"id":"area180",
+	"sid":184602,
+	"label":"Ylitornio",
+	"stage":"kunta",
+	"code":"976",
+	"sort":180,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/976",
+	"children": []
+
+}]
+},
+{
+	"id":"area15",
+	"sid":518298,
+	"label":"Pirkanmaan SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"06",
+	"sort":15,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/06",
+	"children": [
+{
+	"id":"area181",
+	"sid":184086,
+	"label":"Akaa",
+	"stage":"kunta",
+	"code":"020",
+	"sort":181,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/020",
+	"children": []
+
+},
+{
+	"id":"area182",
+	"sid":184400,
+	"label":"Hämeenkyrö",
+	"stage":"kunta",
+	"code":"108",
+	"sort":182,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/108",
+	"children": []
+
+},
+{
+	"id":"area183",
+	"sid":184354,
+	"label":"Ikaalinen",
+	"stage":"kunta",
+	"code":"143",
+	"sort":183,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/143",
+	"children": []
+
+},
+{
+	"id":"area184",
+	"sid":184063,
+	"label":"Juupajoki",
+	"stage":"kunta",
+	"code":"177",
+	"sort":184,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/177",
+	"children": []
+
+},
+{
+	"id":"area185",
+	"sid":184367,
+	"label":"Jämsä",
+	"stage":"kunta",
+	"code":"182",
+	"sort":185,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/182",
+	"children": []
+
+},
+{
+	"id":"area186",
+	"sid":184750,
+	"label":"Kangasala",
+	"stage":"kunta",
+	"code":"211",
+	"sort":186,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/211",
+	"children": []
+
+},
+{
+	"id":"area187",
+	"sid":184762,
+	"label":"Kihniö",
+	"stage":"kunta",
+	"code":"250",
+	"sort":187,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/250",
+	"children": []
+
+},
+{
+	"id":"area188",
+	"sid":183998,
+	"label":"Kuhmoinen",
+	"stage":"kunta",
+	"code":"291",
+	"sort":188,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/291",
+	"children": []
+
+},
+{
+	"id":"area189",
+	"sid":184375,
+	"label":"Lempäälä",
+	"stage":"kunta",
+	"code":"418",
+	"sort":189,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/418",
+	"children": []
+
+},
+{
+	"id":"area190",
+	"sid":184398,
+	"label":"Mänttä-Vilppula",
+	"stage":"kunta",
+	"code":"508",
+	"sort":190,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/508",
+	"children": []
+
+},
+{
+	"id":"area191",
+	"sid":184018,
+	"label":"Nokia",
+	"stage":"kunta",
+	"code":"536",
+	"sort":191,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/536",
+	"children": []
+
+},
+{
+	"id":"area192",
+	"sid":184184,
+	"label":"Orivesi",
+	"stage":"kunta",
+	"code":"562",
+	"sort":192,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/562",
+	"children": []
+
+},
+{
+	"id":"area193",
+	"sid":184088,
+	"label":"Parkano",
+	"stage":"kunta",
+	"code":"581",
+	"sort":193,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/581",
+	"children": []
+
+},
+{
+	"id":"area194",
+	"sid":184583,
+	"label":"Pirkkala",
+	"stage":"kunta",
+	"code":"604",
+	"sort":194,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/604",
+	"children": []
+
+},
+{
+	"id":"area195",
+	"sid":184220,
+	"label":"Pälkäne",
+	"stage":"kunta",
+	"code":"635",
+	"sort":195,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/635",
+	"children": []
+
+},
+{
+	"id":"area196",
+	"sid":184475,
+	"label":"Ruovesi",
+	"stage":"kunta",
+	"code":"702",
+	"sort":196,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/702",
+	"children": []
+
+},
+{
+	"id":"area197",
+	"sid":184158,
+	"label":"Sastamala",
+	"stage":"kunta",
+	"code":"790",
+	"sort":197,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/790",
+	"children": []
+
+},
+{
+	"id":"area198",
+	"sid":184350,
+	"label":"Tampere",
+	"stage":"kunta",
+	"code":"837",
+	"sort":198,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/837",
+	"children": []
+
+},
+{
+	"id":"area199",
+	"sid":184557,
+	"label":"Urjala",
+	"stage":"kunta",
+	"code":"887",
+	"sort":199,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/887",
+	"children": []
+
+},
+{
+	"id":"area200",
+	"sid":184034,
+	"label":"Valkeakoski",
+	"stage":"kunta",
+	"code":"908",
+	"sort":200,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/908",
+	"children": []
+
+},
+{
+	"id":"area201",
+	"sid":184334,
+	"label":"Vesilahti",
+	"stage":"kunta",
+	"code":"922",
+	"sort":201,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/922",
+	"children": []
+
+},
+{
+	"id":"area202",
+	"sid":184627,
+	"label":"Virrat",
+	"stage":"kunta",
+	"code":"936",
+	"sort":202,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/936",
+	"children": []
+
+},
+{
+	"id":"area203",
+	"sid":184035,
+	"label":"Ylöjärvi",
+	"stage":"kunta",
+	"code":"980",
+	"sort":203,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/980",
+	"children": []
+
+}]
+},
+{
+	"id":"area16",
+	"sid":518343,
+	"label":"Pohjois-Karjalan SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"12",
+	"sort":16,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/12",
+	"children": [
+{
+	"id":"area204",
+	"sid":184374,
+	"label":"Heinävesi",
+	"stage":"kunta",
+	"code":"090",
+	"sort":204,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/090",
+	"children": []
+
+},
+{
+	"id":"area205",
+	"sid":184567,
+	"label":"Ilomantsi",
+	"stage":"kunta",
+	"code":"146",
+	"sort":205,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/146",
+	"children": []
+
+},
+{
+	"id":"area206",
+	"sid":184708,
+	"label":"Joensuu",
+	"stage":"kunta",
+	"code":"167",
+	"sort":206,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/167",
+	"children": []
+
+},
+{
+	"id":"area207",
+	"sid":184210,
+	"label":"Juuka",
+	"stage":"kunta",
+	"code":"176",
+	"sort":207,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/176",
+	"children": []
+
+},
+{
+	"id":"area208",
+	"sid":184045,
+	"label":"Kitee",
+	"stage":"kunta",
+	"code":"260",
+	"sort":208,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/260",
+	"children": []
+
+},
+{
+	"id":"area209",
+	"sid":184773,
+	"label":"Kontiolahti",
+	"stage":"kunta",
+	"code":"276",
+	"sort":209,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/276",
+	"children": []
+
+},
+{
+	"id":"area210",
+	"sid":184613,
+	"label":"Lieksa",
+	"stage":"kunta",
+	"code":"422",
+	"sort":210,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/422",
+	"children": []
+
+},
+{
+	"id":"area211",
+	"sid":184037,
+	"label":"Liperi",
+	"stage":"kunta",
+	"code":"426",
+	"sort":211,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/426",
+	"children": []
+
+},
+{
+	"id":"area212",
+	"sid":184293,
+	"label":"Nurmes",
+	"stage":"kunta",
+	"code":"541",
+	"sort":212,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/541",
+	"children": []
+
+},
+{
+	"id":"area213",
+	"sid":184115,
+	"label":"Outokumpu",
+	"stage":"kunta",
+	"code":"309",
+	"sort":213,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/309",
+	"children": []
+
+},
+{
+	"id":"area214",
+	"sid":184116,
+	"label":"Polvijärvi",
+	"stage":"kunta",
+	"code":"607",
+	"sort":214,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/607",
+	"children": []
+
+},
+{
+	"id":"area215",
+	"sid":184099,
+	"label":"Rääkkylä",
+	"stage":"kunta",
+	"code":"707",
+	"sort":215,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/707",
+	"children": []
+
+},
+{
+	"id":"area216",
+	"sid":184239,
+	"label":"Tohmajärvi",
+	"stage":"kunta",
+	"code":"848",
+	"sort":216,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/848",
+	"children": []
+
+}]
+},
+{
+	"id":"area17",
+	"sid":518354,
+	"label":"Pohjois-Pohjanmaan SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"18",
+	"sort":17,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/18",
+	"children": [
+{
+	"id":"area217",
+	"sid":184450,
+	"label":"Alavieska",
+	"stage":"kunta",
+	"code":"009",
+	"sort":217,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/009",
+	"children": []
+
+},
+{
+	"id":"area218",
+	"sid":184332,
+	"label":"Haapajärvi",
+	"stage":"kunta",
+	"code":"069",
+	"sort":218,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/069",
+	"children": []
+
+},
+{
+	"id":"area219",
+	"sid":184223,
+	"label":"Haapavesi",
+	"stage":"kunta",
+	"code":"071",
+	"sort":219,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/071",
+	"children": []
+
+},
+{
+	"id":"area220",
+	"sid":184140,
+	"label":"Hailuoto",
+	"stage":"kunta",
+	"code":"072",
+	"sort":220,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/072",
+	"children": []
+
+},
+{
+	"id":"area221",
+	"sid":184172,
+	"label":"Ii",
+	"stage":"kunta",
+	"code":"139",
+	"sort":221,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/139",
+	"children": []
+
+},
+{
+	"id":"area222",
+	"sid":184821,
+	"label":"Kalajoki",
+	"stage":"kunta",
+	"code":"208",
+	"sort":222,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/208",
+	"children": []
+
+},
+{
+	"id":"area223",
+	"sid":184251,
+	"label":"Kempele",
+	"stage":"kunta",
+	"code":"244",
+	"sort":223,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/244",
+	"children": []
+
+},
+{
+	"id":"area224",
+	"sid":184818,
+	"label":"Kuusamo",
+	"stage":"kunta",
+	"code":"305",
+	"sort":224,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/305",
+	"children": []
+
+},
+{
+	"id":"area225",
+	"sid":184369,
+	"label":"Kärsämäki",
+	"stage":"kunta",
+	"code":"317",
+	"sort":225,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/317",
+	"children": []
+
+},
+{
+	"id":"area226",
+	"sid":184664,
+	"label":"Liminka",
+	"stage":"kunta",
+	"code":"425",
+	"sort":226,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/425",
+	"children": []
+
+},
+{
+	"id":"area227",
+	"sid":184337,
+	"label":"Lumijoki",
+	"stage":"kunta",
+	"code":"436",
+	"sort":227,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/436",
+	"children": []
+
+},
+{
+	"id":"area228",
+	"sid":184155,
+	"label":"Merijärvi",
+	"stage":"kunta",
+	"code":"483",
+	"sort":228,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/483",
+	"children": []
+
+},
+{
+	"id":"area229",
+	"sid":184772,
+	"label":"Muhos",
+	"stage":"kunta",
+	"code":"494",
+	"sort":229,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/494",
+	"children": []
+
+},
+{
+	"id":"area230",
+	"sid":184508,
+	"label":"Nivala",
+	"stage":"kunta",
+	"code":"535",
+	"sort":230,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/535",
+	"children": []
+
+},
+{
+	"id":"area231",
+	"sid":184453,
+	"label":"Oulainen",
+	"stage":"kunta",
+	"code":"563",
+	"sort":231,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/563",
+	"children": []
+
+},
+{
+	"id":"area232",
+	"sid":184002,
+	"label":"Oulu",
+	"stage":"kunta",
+	"code":"564",
+	"sort":232,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/564",
+	"children": []
+
+},
+{
+	"id":"area233",
+	"sid":184612,
+	"label":"Pudasjärvi",
+	"stage":"kunta",
+	"code":"615",
+	"sort":233,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/615",
+	"children": []
+
+},
+{
+	"id":"area234",
+	"sid":184357,
+	"label":"Pyhäjoki",
+	"stage":"kunta",
+	"code":"625",
+	"sort":234,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/625",
+	"children": []
+
+},
+{
+	"id":"area235",
+	"sid":184592,
+	"label":"Pyhäjärvi",
+	"stage":"kunta",
+	"code":"626",
+	"sort":235,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/626",
+	"children": []
+
+},
+{
+	"id":"area236",
+	"sid":184653,
+	"label":"Pyhäntä",
+	"stage":"kunta",
+	"code":"630",
+	"sort":236,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/630",
+	"children": []
+
+},
+{
+	"id":"area237",
+	"sid":184486,
+	"label":"Raahe",
+	"stage":"kunta",
+	"code":"678",
+	"sort":237,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/678",
+	"children": []
+
+},
+{
+	"id":"area238",
+	"sid":184097,
+	"label":"Sievi",
+	"stage":"kunta",
+	"code":"746",
+	"sort":238,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/746",
+	"children": []
+
+},
+{
+	"id":"area239",
+	"sid":184166,
+	"label":"Siikajoki",
+	"stage":"kunta",
+	"code":"748",
+	"sort":239,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/748",
+	"children": []
+
+},
+{
+	"id":"area240",
+	"sid":184536,
+	"label":"Siikalatva",
+	"stage":"kunta",
+	"code":"791",
+	"sort":240,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/791",
+	"children": []
+
+},
+{
+	"id":"area241",
+	"sid":184075,
+	"label":"Taivalkoski",
+	"stage":"kunta",
+	"code":"832",
+	"sort":241,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/832",
+	"children": []
+
+},
+{
+	"id":"area242",
+	"sid":184737,
+	"label":"Tyrnävä",
+	"stage":"kunta",
+	"code":"859",
+	"sort":242,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/859",
+	"children": []
+
+},
+{
+	"id":"area243",
+	"sid":184325,
+	"label":"Utajärvi",
+	"stage":"kunta",
+	"code":"889",
+	"sort":243,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/889",
+	"children": []
+
+},
+{
+	"id":"area244",
+	"sid":184083,
+	"label":"Vaala",
+	"stage":"kunta",
+	"code":"785",
+	"sort":244,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/785",
+	"children": []
+
+},
+{
+	"id":"area245",
+	"sid":184696,
+	"label":"Ylivieska",
+	"stage":"kunta",
+	"code":"977",
+	"sort":245,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/977",
+	"children": []
+
+}]
+},
+{
+	"id":"area18",
+	"sid":518351,
+	"label":"Pohjois-Savon SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"13",
+	"sort":18,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/13",
+	"children": [
+{
+	"id":"area246",
+	"sid":184783,
+	"label":"Iisalmi",
+	"stage":"kunta",
+	"code":"140",
+	"sort":246,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/140",
+	"children": []
+
+},
+{
+	"id":"area247",
+	"sid":184333,
+	"label":"Kaavi",
+	"stage":"kunta",
+	"code":"204",
+	"sort":247,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/204",
+	"children": []
+
+},
+{
+	"id":"area248",
+	"sid":184560,
+	"label":"Keitele",
+	"stage":"kunta",
+	"code":"239",
+	"sort":248,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/239",
+	"children": []
+
+},
+{
+	"id":"area249",
+	"sid":184722,
+	"label":"Kiuruvesi",
+	"stage":"kunta",
+	"code":"263",
+	"sort":249,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/263",
+	"children": []
+
+},
+{
+	"id":"area250",
+	"sid":184478,
+	"label":"Kuopio",
+	"stage":"kunta",
+	"code":"297",
+	"sort":250,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/297",
+	"children": []
+
+},
+{
+	"id":"area251",
+	"sid":184305,
+	"label":"Lapinlahti",
+	"stage":"kunta",
+	"code":"402",
+	"sort":251,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/402",
+	"children": []
+
+},
+{
+	"id":"area252",
+	"sid":184524,
+	"label":"Leppävirta",
+	"stage":"kunta",
+	"code":"420",
+	"sort":252,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/420",
+	"children": []
+
+},
+{
+	"id":"area253",
+	"sid":184634,
+	"label":"Pielavesi",
+	"stage":"kunta",
+	"code":"595",
+	"sort":253,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/595",
+	"children": []
+
+},
+{
+	"id":"area254",
+	"sid":184361,
+	"label":"Rautalampi",
+	"stage":"kunta",
+	"code":"686",
+	"sort":254,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/686",
+	"children": []
+
+},
+{
+	"id":"area255",
+	"sid":184010,
+	"label":"Rautavaara",
+	"stage":"kunta",
+	"code":"687",
+	"sort":255,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/687",
+	"children": []
+
+},
+{
+	"id":"area256",
+	"sid":184376,
+	"label":"Siilinjärvi",
+	"stage":"kunta",
+	"code":"749",
+	"sort":256,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/749",
+	"children": []
+
+},
+{
+	"id":"area257",
+	"sid":184025,
+	"label":"Sonkajärvi",
+	"stage":"kunta",
+	"code":"762",
+	"sort":257,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/762",
+	"children": []
+
+},
+{
+	"id":"area258",
+	"sid":184643,
+	"label":"Suonenjoki",
+	"stage":"kunta",
+	"code":"778",
+	"sort":258,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/778",
+	"children": []
+
+},
+{
+	"id":"area259",
+	"sid":184049,
+	"label":"Tervo",
+	"stage":"kunta",
+	"code":"844",
+	"sort":259,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/844",
+	"children": []
+
+},
+{
+	"id":"area260",
+	"sid":184625,
+	"label":"Tuusniemi",
+	"stage":"kunta",
+	"code":"857",
+	"sort":260,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/857",
+	"children": []
+
+},
+{
+	"id":"area261",
+	"sid":184585,
+	"label":"Varkaus",
+	"stage":"kunta",
+	"code":"915",
+	"sort":261,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/915",
+	"children": []
+
+},
+{
+	"id":"area262",
+	"sid":184190,
+	"label":"Vesanto",
+	"stage":"kunta",
+	"code":"921",
+	"sort":262,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/921",
+	"children": []
+
+},
+{
+	"id":"area263",
+	"sid":184719,
+	"label":"Vieremä",
+	"stage":"kunta",
+	"code":"925",
+	"sort":263,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/925",
+	"children": []
+
+}]
+},
+{
+	"id":"area19",
+	"sid":518300,
+	"label":"Päijät-Hämeen SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"07",
+	"sort":19,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/07",
+	"children": [
+{
+	"id":"area264",
+	"sid":184439,
+	"label":"Asikkala",
+	"stage":"kunta",
+	"code":"016",
+	"sort":264,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/016",
+	"children": []
+
+},
+{
+	"id":"area265",
+	"sid":184685,
+	"label":"Hartola",
+	"stage":"kunta",
+	"code":"081",
+	"sort":265,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/081",
+	"children": []
+
+},
+{
+	"id":"area266",
+	"sid":184157,
+	"label":"Heinola",
+	"stage":"kunta",
+	"code":"111",
+	"sort":266,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/111",
+	"children": []
+
+},
+{
+	"id":"area267",
+	"sid":184780,
+	"label":"Hollola",
+	"stage":"kunta",
+	"code":"098",
+	"sort":267,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/098",
+	"children": []
+
+},
+{
+	"id":"area268",
+	"sid":183994,
+	"label":"Iitti",
+	"stage":"kunta",
+	"code":"142",
+	"sort":268,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/142",
+	"children": []
+
+},
+{
+	"id":"area269",
+	"sid":184575,
+	"label":"Kärkölä",
+	"stage":"kunta",
+	"code":"316",
+	"sort":269,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/316",
+	"children": []
+
+},
+{
+	"id":"area270",
+	"sid":184194,
+	"label":"Lahti",
+	"stage":"kunta",
+	"code":"398",
+	"sort":270,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/398",
+	"children": []
+
+},
+{
+	"id":"area271",
+	"sid":184414,
+	"label":"Myrskylä",
+	"stage":"kunta",
+	"code":"504",
+	"sort":271,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/504",
+	"children": []
+
+},
+{
+	"id":"area272",
+	"sid":184745,
+	"label":"Orimattila",
+	"stage":"kunta",
+	"code":"560",
+	"sort":272,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/560",
+	"children": []
+
+},
+{
+	"id":"area273",
+	"sid":184630,
+	"label":"Padasjoki",
+	"stage":"kunta",
+	"code":"576",
+	"sort":273,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/576",
+	"children": []
+
+},
+{
+	"id":"area274",
+	"sid":184455,
+	"label":"Pukkila",
+	"stage":"kunta",
+	"code":"616",
+	"sort":274,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/616",
+	"children": []
+
+},
+{
+	"id":"area275",
+	"sid":184651,
+	"label":"Sysmä",
+	"stage":"kunta",
+	"code":"781",
+	"sort":275,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/781",
+	"children": []
+
+}]
+},
+{
+	"id":"area20",
+	"sid":518366,
+	"label":"Satakunnan SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"04",
+	"sort":20,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/04",
+	"children": [
+{
+	"id":"area276",
+	"sid":184599,
+	"label":"Eura",
+	"stage":"kunta",
+	"code":"050",
+	"sort":276,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/050",
+	"children": []
+
+},
+{
+	"id":"area277",
+	"sid":183986,
+	"label":"Eurajoki",
+	"stage":"kunta",
+	"code":"051",
+	"sort":277,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/051",
+	"children": []
+
+},
+{
+	"id":"area278",
+	"sid":184776,
+	"label":"Harjavalta",
+	"stage":"kunta",
+	"code":"079",
+	"sort":278,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/079",
+	"children": []
+
+},
+{
+	"id":"area279",
+	"sid":184245,
+	"label":"Honkajoki",
+	"stage":"kunta",
+	"code":"099",
+	"sort":279,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/099",
+	"children": []
+
+},
+{
+	"id":"area280",
+	"sid":184280,
+	"label":"Huittinen",
+	"stage":"kunta",
+	"code":"102",
+	"sort":280,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/102",
+	"children": []
+
+},
+{
+	"id":"area281",
+	"sid":184270,
+	"label":"Jämijärvi",
+	"stage":"kunta",
+	"code":"181",
+	"sort":281,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/181",
+	"children": []
+
+},
+{
+	"id":"area282",
+	"sid":184711,
+	"label":"Kankaanpää",
+	"stage":"kunta",
+	"code":"214",
+	"sort":282,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/214",
+	"children": []
+
+},
+{
+	"id":"area283",
+	"sid":184111,
+	"label":"Karvia",
+	"stage":"kunta",
+	"code":"230",
+	"sort":283,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/230",
+	"children": []
+
+},
+{
+	"id":"area284",
+	"sid":184272,
+	"label":"Kokemäki",
+	"stage":"kunta",
+	"code":"271",
+	"sort":284,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/271",
+	"children": []
+
+},
+{
+	"id":"area285",
+	"sid":184127,
+	"label":"Merikarvia",
+	"stage":"kunta",
+	"code":"484",
+	"sort":285,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/484",
+	"children": []
+
+},
+{
+	"id":"area286",
+	"sid":184577,
+	"label":"Nakkila",
+	"stage":"kunta",
+	"code":"531",
+	"sort":286,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/531",
+	"children": []
+
+},
+{
+	"id":"area287",
+	"sid":184141,
+	"label":"Pomarkku",
+	"stage":"kunta",
+	"code":"608",
+	"sort":287,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/608",
+	"children": []
+
+},
+{
+	"id":"area288",
+	"sid":184323,
+	"label":"Pori",
+	"stage":"kunta",
+	"code":"609",
+	"sort":288,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/609",
+	"children": []
+
+},
+{
+	"id":"area289",
+	"sid":184031,
+	"label":"Rauma",
+	"stage":"kunta",
+	"code":"684",
+	"sort":289,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/684",
+	"children": []
+
+},
+{
+	"id":"area290",
+	"sid":183980,
+	"label":"Siikainen",
+	"stage":"kunta",
+	"code":"747",
+	"sort":290,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/747",
+	"children": []
+
+},
+{
+	"id":"area291",
+	"sid":183992,
+	"label":"Säkylä",
+	"stage":"kunta",
+	"code":"783",
+	"sort":291,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/783",
+	"children": []
+
+},
+{
+	"id":"area292",
+	"sid":184290,
+	"label":"Ulvila",
+	"stage":"kunta",
+	"code":"886",
+	"sort":292,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/886",
+	"children": []
+
+}]
+},
+{
+	"id":"area21",
+	"sid":518323,
+	"label":"Vaasan SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"16",
+	"sort":21,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/16",
+	"children": [
+{
+	"id":"area293",
+	"sid":184693,
+	"label":"Kaskinen",
+	"stage":"kunta",
+	"code":"231",
+	"sort":293,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/231",
+	"children": []
+
+},
+{
+	"id":"area294",
+	"sid":229026,
+	"label":"Korsnäs",
+	"stage":"kunta",
+	"code":"280",
+	"sort":294,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/280",
+	"children": []
+
+},
+{
+	"id":"area295",
+	"sid":184451,
+	"label":"Kristiinankaupunki",
+	"stage":"kunta",
+	"code":"287",
+	"sort":295,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/287",
+	"children": []
+
+},
+{
+	"id":"area296",
+	"sid":184068,
+	"label":"Laihia",
+	"stage":"kunta",
+	"code":"399",
+	"sort":296,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/399",
+	"children": []
+
+},
+{
+	"id":"area297",
+	"sid":184208,
+	"label":"Luoto",
+	"stage":"kunta",
+	"code":"440",
+	"sort":297,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/440",
+	"children": []
+
+},
+{
+	"id":"area298",
+	"sid":184232,
+	"label":"Maalahti",
+	"stage":"kunta",
+	"code":"475",
+	"sort":298,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/475",
+	"children": []
+
+},
+{
+	"id":"area299",
+	"sid":184238,
+	"label":"Mustasaari",
+	"stage":"kunta",
+	"code":"499",
+	"sort":299,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/499",
+	"children": []
+
+},
+{
+	"id":"area300",
+	"sid":184816,
+	"label":"Närpiö",
+	"stage":"kunta",
+	"code":"545",
+	"sort":300,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/545",
+	"children": []
+
+},
+{
+	"id":"area301",
+	"sid":184795,
+	"label":"Pedersören kunta",
+	"stage":"kunta",
+	"code":"599",
+	"sort":301,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/599",
+	"children": []
+
+},
+{
+	"id":"area302",
+	"sid":184444,
+	"label":"Pietarsaari",
+	"stage":"kunta",
+	"code":"598",
+	"sort":302,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/598",
+	"children": []
+
+},
+{
+	"id":"area303",
+	"sid":184302,
+	"label":"Uusikaarlepyy",
+	"stage":"kunta",
+	"code":"893",
+	"sort":303,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/893",
+	"children": []
+
+},
+{
+	"id":"area304",
+	"sid":184253,
+	"label":"Vaasa",
+	"stage":"kunta",
+	"code":"905",
+	"sort":304,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/905",
+	"children": []
+
+},
+{
+	"id":"area305",
+	"sid":184787,
+	"label":"Vöyri",
+	"stage":"kunta",
+	"code":"946",
+	"sort":305,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/946",
+	"children": []
+
+}]
+},
+{
+	"id":"area22",
+	"sid":518349,
+	"label":"Varsinais-Suomen SHP",
+	"stage":"sairaanhoitopiiri",
+	"code":"03",
+	"sort":22,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/03",
+	"children": [
+{
+	"id":"area306",
+	"sid":184064,
+	"label":"Aura",
+	"stage":"kunta",
+	"code":"019",
+	"sort":306,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/019",
+	"children": []
+
+},
+{
+	"id":"area307",
+	"sid":184793,
+	"label":"Kaarina",
+	"stage":"kunta",
+	"code":"202",
+	"sort":307,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/202",
+	"children": []
+
+},
+{
+	"id":"area308",
+	"sid":184822,
+	"label":"Kemiönsaari",
+	"stage":"kunta",
+	"code":"322",
+	"sort":308,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/322",
+	"children": []
+
+},
+{
+	"id":"area309",
+	"sid":184126,
+	"label":"Koski Tl",
+	"stage":"kunta",
+	"code":"284",
+	"sort":309,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/284",
+	"children": []
+
+},
+{
+	"id":"area310",
+	"sid":184611,
+	"label":"Kustavi",
+	"stage":"kunta",
+	"code":"304",
+	"sort":310,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/304",
+	"children": []
+
+},
+{
+	"id":"area311",
+	"sid":184672,
+	"label":"Laitila",
+	"stage":"kunta",
+	"code":"400",
+	"sort":311,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/400",
+	"children": []
+
+},
+{
+	"id":"area312",
+	"sid":184198,
+	"label":"Lieto",
+	"stage":"kunta",
+	"code":"423",
+	"sort":312,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/423",
+	"children": []
+
+},
+{
+	"id":"area313",
+	"sid":184059,
+	"label":"Loimaa",
+	"stage":"kunta",
+	"code":"430",
+	"sort":313,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/430",
+	"children": []
+
+},
+{
+	"id":"area314",
+	"sid":184525,
+	"label":"Marttila",
+	"stage":"kunta",
+	"code":"480",
+	"sort":314,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/480",
+	"children": []
+
+},
+{
+	"id":"area315",
+	"sid":184728,
+	"label":"Masku",
+	"stage":"kunta",
+	"code":"481",
+	"sort":315,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/481",
+	"children": []
+
+},
+{
+	"id":"area316",
+	"sid":184786,
+	"label":"Mynämäki",
+	"stage":"kunta",
+	"code":"503",
+	"sort":316,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/503",
+	"children": []
+
+},
+{
+	"id":"area317",
+	"sid":184667,
+	"label":"Naantali",
+	"stage":"kunta",
+	"code":"529",
+	"sort":317,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/529",
+	"children": []
+
+},
+{
+	"id":"area318",
+	"sid":185378,
+	"label":"Nousiainen",
+	"stage":"kunta",
+	"code":"538",
+	"sort":318,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/538",
+	"children": []
+
+},
+{
+	"id":"area319",
+	"sid":228822,
+	"label":"Oripää",
+	"stage":"kunta",
+	"code":"561",
+	"sort":319,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/561",
+	"children": []
+
+},
+{
+	"id":"area320",
+	"sid":184616,
+	"label":"Paimio",
+	"stage":"kunta",
+	"code":"577",
+	"sort":320,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/577",
+	"children": []
+
+},
+{
+	"id":"area321",
+	"sid":184349,
+	"label":"Parainen",
+	"stage":"kunta",
+	"code":"445",
+	"sort":321,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/445",
+	"children": []
+
+},
+{
+	"id":"area322",
+	"sid":184669,
+	"label":"Punkalaidun",
+	"stage":"kunta",
+	"code":"619",
+	"sort":322,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/619",
+	"children": []
+
+},
+{
+	"id":"area323",
+	"sid":184250,
+	"label":"Pyhäranta",
+	"stage":"kunta",
+	"code":"631",
+	"sort":323,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/631",
+	"children": []
+
+},
+{
+	"id":"area324",
+	"sid":183985,
+	"label":"Pöytyä",
+	"stage":"kunta",
+	"code":"636",
+	"sort":324,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/636",
+	"children": []
+
+},
+{
+	"id":"area325",
+	"sid":184318,
+	"label":"Raisio",
+	"stage":"kunta",
+	"code":"680",
+	"sort":325,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/680",
+	"children": []
+
+},
+{
+	"id":"area326",
+	"sid":184468,
+	"label":"Rusko",
+	"stage":"kunta",
+	"code":"704",
+	"sort":326,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/704",
+	"children": []
+
+},
+{
+	"id":"area327",
+	"sid":184364,
+	"label":"Salo",
+	"stage":"kunta",
+	"code":"734",
+	"sort":327,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/734",
+	"children": []
+
+},
+{
+	"id":"area328",
+	"sid":184532,
+	"label":"Sauvo",
+	"stage":"kunta",
+	"code":"738",
+	"sort":328,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/738",
+	"children": []
+
+},
+{
+	"id":"area329",
+	"sid":184606,
+	"label":"Somero",
+	"stage":"kunta",
+	"code":"761",
+	"sort":329,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/761",
+	"children": []
+
+},
+{
+	"id":"area330",
+	"sid":184296,
+	"label":"Taivassalo",
+	"stage":"kunta",
+	"code":"833",
+	"sort":330,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/833",
+	"children": []
+
+},
+{
+	"id":"area331",
+	"sid":184578,
+	"label":"Turku",
+	"stage":"kunta",
+	"code":"853",
+	"sort":331,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/853",
+	"children": []
+
+},
+{
+	"id":"area332",
+	"sid":184812,
+	"label":"Uusikaupunki",
+	"stage":"kunta",
+	"code":"895",
+	"sort":332,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/895",
+	"children": []
+
+},
+{
+	"id":"area333",
+	"sid":184499,
+	"label":"Vehmaa",
+	"stage":"kunta",
+	"code":"918",
+	"sort":333,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/918",
+	"children": []
+
+}]
+},
+{
+	"id":"area23",
+	"sid":518333,
+	"label":"Muut alueet",
+	"stage":"sairaanhoitopiiri",
+	"code":"000",
+	"sort":23,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/sairaanhoitopiiri/000",
+	"children": [
+{
+	"id":"area334",
+	"sid":518395,
+	"label":"Puuttuva tai ulkomaat",
+	"stage":"kunta",
+	"code":"0",
+	"sort":334,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/area/1/kunta/0",
+	"children": []
+
+}]
+}]
+}]},
+{
+	"id":"dateweek20201226",
+	"label":"Aika",
+	"children": [
+{
+	"id":"dateweek202012261",
+	"sid":525425,
+	"label":"Kaikki ajat",
+	"stage":"root",
+	"code":"time",
+	"sort":1,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/root/time",
+	"children": [
+{
+	"id":"dateweek202012262",
+	"sid":525467,
+	"label":"Vuosi 2020 Viikko 52",
+	"stage":"week",
+	"code":"2020W52",
+	"sort":2,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2020W52",
+	"children": [
+{
+	"id":"dateweek2020122657",
+	"sid":525461,
+	"label":"2020-12-26",
+	"stage":"date",
+	"code":"2020-12-26",
+	"sort":57,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2020-12-26",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122658",
+	"sid":525444,
+	"label":"2020-12-27",
+	"stage":"date",
+	"code":"2020-12-27",
+	"sort":58,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2020-12-27",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek202012263",
+	"sid":525455,
+	"label":"Vuosi 2020 Viikko 53",
+	"stage":"week",
+	"code":"2020W53",
+	"sort":3,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2020W53",
+	"children": [
+{
+	"id":"dateweek2020122659",
+	"sid":525464,
+	"label":"2020-12-28",
+	"stage":"date",
+	"code":"2020-12-28",
+	"sort":59,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2020-12-28",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122660",
+	"sid":525463,
+	"label":"2020-12-29",
+	"stage":"date",
+	"code":"2020-12-29",
+	"sort":60,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2020-12-29",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122661",
+	"sid":525465,
+	"label":"2020-12-30",
+	"stage":"date",
+	"code":"2020-12-30",
+	"sort":61,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2020-12-30",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122662",
+	"sid":525469,
+	"label":"2020-12-31",
+	"stage":"date",
+	"code":"2020-12-31",
+	"sort":62,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2020-12-31",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122663",
+	"sid":525459,
+	"label":"2021-01-01",
+	"stage":"date",
+	"code":"2021-01-01",
+	"sort":63,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-01",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122664",
+	"sid":525437,
+	"label":"2021-01-02",
+	"stage":"date",
+	"code":"2021-01-02",
+	"sort":64,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-02",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122665",
+	"sid":525466,
+	"label":"2021-01-03",
+	"stage":"date",
+	"code":"2021-01-03",
+	"sort":65,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-03",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek202012264",
+	"sid":525460,
+	"label":"Vuosi 2021 Viikko 01",
+	"stage":"week",
+	"code":"2021W01",
+	"sort":4,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W01",
+	"children": [
+{
+	"id":"dateweek2020122666",
+	"sid":525428,
+	"label":"2021-01-04",
+	"stage":"date",
+	"code":"2021-01-04",
+	"sort":66,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-04",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122667",
+	"sid":525443,
+	"label":"2021-01-05",
+	"stage":"date",
+	"code":"2021-01-05",
+	"sort":67,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-05",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122668",
+	"sid":525456,
+	"label":"2021-01-06",
+	"stage":"date",
+	"code":"2021-01-06",
+	"sort":68,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-06",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122669",
+	"sid":525447,
+	"label":"2021-01-07",
+	"stage":"date",
+	"code":"2021-01-07",
+	"sort":69,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-07",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122670",
+	"sid":525426,
+	"label":"2021-01-08",
+	"stage":"date",
+	"code":"2021-01-08",
+	"sort":70,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-08",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122671",
+	"sid":525451,
+	"label":"2021-01-09",
+	"stage":"date",
+	"code":"2021-01-09",
+	"sort":71,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-09",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122672",
+	"sid":525429,
+	"label":"2021-01-10",
+	"stage":"date",
+	"code":"2021-01-10",
+	"sort":72,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-10",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek202012265",
+	"sid":525438,
+	"label":"Vuosi 2021 Viikko 02",
+	"stage":"week",
+	"code":"2021W02",
+	"sort":5,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W02",
+	"children": [
+{
+	"id":"dateweek2020122673",
+	"sid":525431,
+	"label":"2021-01-11",
+	"stage":"date",
+	"code":"2021-01-11",
+	"sort":73,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-11",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122674",
+	"sid":525468,
+	"label":"2021-01-12",
+	"stage":"date",
+	"code":"2021-01-12",
+	"sort":74,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-12",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122675",
+	"sid":525439,
+	"label":"2021-01-13",
+	"stage":"date",
+	"code":"2021-01-13",
+	"sort":75,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-13",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122676",
+	"sid":525436,
+	"label":"2021-01-14",
+	"stage":"date",
+	"code":"2021-01-14",
+	"sort":76,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-14",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122677",
+	"sid":525453,
+	"label":"2021-01-15",
+	"stage":"date",
+	"code":"2021-01-15",
+	"sort":77,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-15",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122678",
+	"sid":525432,
+	"label":"2021-01-16",
+	"stage":"date",
+	"code":"2021-01-16",
+	"sort":78,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-16",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122679",
+	"sid":525434,
+	"label":"2021-01-17",
+	"stage":"date",
+	"code":"2021-01-17",
+	"sort":79,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-17",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek202012266",
+	"sid":525454,
+	"label":"Vuosi 2021 Viikko 03",
+	"stage":"week",
+	"code":"2021W03",
+	"sort":6,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W03",
+	"children": [
+{
+	"id":"dateweek2020122680",
+	"sid":525457,
+	"label":"2021-01-18",
+	"stage":"date",
+	"code":"2021-01-18",
+	"sort":80,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-18",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122681",
+	"sid":525445,
+	"label":"2021-01-19",
+	"stage":"date",
+	"code":"2021-01-19",
+	"sort":81,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-19",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122682",
+	"sid":525430,
+	"label":"2021-01-20",
+	"stage":"date",
+	"code":"2021-01-20",
+	"sort":82,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-20",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122683",
+	"sid":525440,
+	"label":"2021-01-21",
+	"stage":"date",
+	"code":"2021-01-21",
+	"sort":83,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-21",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122684",
+	"sid":525442,
+	"label":"2021-01-22",
+	"stage":"date",
+	"code":"2021-01-22",
+	"sort":84,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-22",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122685",
+	"sid":525452,
+	"label":"2021-01-23",
+	"stage":"date",
+	"code":"2021-01-23",
+	"sort":85,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-23",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122686",
+	"sid":525450,
+	"label":"2021-01-24",
+	"stage":"date",
+	"code":"2021-01-24",
+	"sort":86,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-24",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek202012267",
+	"sid":525462,
+	"label":"Vuosi 2021 Viikko 04",
+	"stage":"week",
+	"code":"2021W04",
+	"sort":7,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W04",
+	"children": [
+{
+	"id":"dateweek2020122687",
+	"sid":525449,
+	"label":"2021-01-25",
+	"stage":"date",
+	"code":"2021-01-25",
+	"sort":87,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-25",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122688",
+	"sid":525448,
+	"label":"2021-01-26",
+	"stage":"date",
+	"code":"2021-01-26",
+	"sort":88,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-26",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122689",
+	"sid":525435,
+	"label":"2021-01-27",
+	"stage":"date",
+	"code":"2021-01-27",
+	"sort":89,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-27",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122690",
+	"sid":525458,
+	"label":"2021-01-28",
+	"stage":"date",
+	"code":"2021-01-28",
+	"sort":90,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-28",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122691",
+	"sid":525427,
+	"label":"2021-01-29",
+	"stage":"date",
+	"code":"2021-01-29",
+	"sort":91,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-29",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122692",
+	"sid":525433,
+	"label":"2021-01-30",
+	"stage":"date",
+	"code":"2021-01-30",
+	"sort":92,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-30",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122693",
+	"sid":525470,
+	"label":"2021-01-31",
+	"stage":"date",
+	"code":"2021-01-31",
+	"sort":93,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-01-31",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek202012268",
+	"sid":525441,
+	"label":"Vuosi 2021 Viikko 05",
+	"stage":"week",
+	"code":"2021W05",
+	"sort":8,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W05",
+	"children": [
+{
+	"id":"dateweek2020122694",
+	"sid":525446,
+	"label":"2021-02-01",
+	"stage":"date",
+	"code":"2021-02-01",
+	"sort":94,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-01",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122695",
+	"sid":527347,
+	"label":"2021-02-02",
+	"stage":"date",
+	"code":"2021-02-02",
+	"sort":95,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-02",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122696",
+	"sid":527348,
+	"label":"2021-02-03",
+	"stage":"date",
+	"code":"2021-02-03",
+	"sort":96,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-03",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122697",
+	"sid":527572,
+	"label":"2021-02-04",
+	"stage":"date",
+	"code":"2021-02-04",
+	"sort":97,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-04",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122698",
+	"sid":527833,
+	"label":"2021-02-05",
+	"stage":"date",
+	"code":"2021-02-05",
+	"sort":98,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-05",
+	"children": []
+
+},
+{
+	"id":"dateweek2020122699",
+	"sid":527838,
+	"label":"2021-02-06",
+	"stage":"date",
+	"code":"2021-02-06",
+	"sort":99,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226100",
+	"sid":527841,
+	"label":"2021-02-07",
+	"stage":"date",
+	"code":"2021-02-07",
+	"sort":100,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-07",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek202012269",
+	"sid":527848,
+	"label":"Vuosi 2021 Viikko 06",
+	"stage":"week",
+	"code":"2021W06",
+	"sort":9,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W06",
+	"children": [
+{
+	"id":"dateweek20201226101",
+	"sid":527847,
+	"label":"2021-02-08",
+	"stage":"date",
+	"code":"2021-02-08",
+	"sort":101,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-08",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226102",
+	"sid":527861,
+	"label":"2021-02-09",
+	"stage":"date",
+	"code":"2021-02-09",
+	"sort":102,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-09",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226103",
+	"sid":527890,
+	"label":"2021-02-10",
+	"stage":"date",
+	"code":"2021-02-10",
+	"sort":103,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-10",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226104",
+	"sid":527924,
+	"label":"2021-02-11",
+	"stage":"date",
+	"code":"2021-02-11",
+	"sort":104,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-11",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226105",
+	"sid":531417,
+	"label":"2021-02-12",
+	"stage":"date",
+	"code":"2021-02-12",
+	"sort":105,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-12",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226106",
+	"sid":531429,
+	"label":"2021-02-13",
+	"stage":"date",
+	"code":"2021-02-13",
+	"sort":106,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-13",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226107",
+	"sid":531431,
+	"label":"2021-02-14",
+	"stage":"date",
+	"code":"2021-02-14",
+	"sort":107,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-14",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122610",
+	"sid":531437,
+	"label":"Vuosi 2021 Viikko 07",
+	"stage":"week",
+	"code":"2021W07",
+	"sort":10,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W07",
+	"children": [
+{
+	"id":"dateweek20201226108",
+	"sid":531438,
+	"label":"2021-02-15",
+	"stage":"date",
+	"code":"2021-02-15",
+	"sort":108,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-15",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226109",
+	"sid":531495,
+	"label":"2021-02-16",
+	"stage":"date",
+	"code":"2021-02-16",
+	"sort":109,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-16",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226110",
+	"sid":531522,
+	"label":"2021-02-17",
+	"stage":"date",
+	"code":"2021-02-17",
+	"sort":110,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-17",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226111",
+	"sid":531527,
+	"label":"2021-02-18",
+	"stage":"date",
+	"code":"2021-02-18",
+	"sort":111,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-18",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226112",
+	"sid":531728,
+	"label":"2021-02-19",
+	"stage":"date",
+	"code":"2021-02-19",
+	"sort":112,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-19",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226113",
+	"sid":531856,
+	"label":"2021-02-20",
+	"stage":"date",
+	"code":"2021-02-20",
+	"sort":113,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-20",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226114",
+	"sid":533016,
+	"label":"2021-02-21",
+	"stage":"date",
+	"code":"2021-02-21",
+	"sort":114,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-21",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122611",
+	"sid":533036,
+	"label":"Vuosi 2021 Viikko 08",
+	"stage":"week",
+	"code":"2021W08",
+	"sort":11,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W08",
+	"children": [
+{
+	"id":"dateweek20201226115",
+	"sid":533037,
+	"label":"2021-02-22",
+	"stage":"date",
+	"code":"2021-02-22",
+	"sort":115,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-22",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226116",
+	"sid":533061,
+	"label":"2021-02-23",
+	"stage":"date",
+	"code":"2021-02-23",
+	"sort":116,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-23",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226117",
+	"sid":533102,
+	"label":"2021-02-24",
+	"stage":"date",
+	"code":"2021-02-24",
+	"sort":117,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-24",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226118",
+	"sid":533104,
+	"label":"2021-02-25",
+	"stage":"date",
+	"code":"2021-02-25",
+	"sort":118,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-25",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226119",
+	"sid":533131,
+	"label":"2021-02-26",
+	"stage":"date",
+	"code":"2021-02-26",
+	"sort":119,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-26",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226120",
+	"sid":533137,
+	"label":"2021-02-27",
+	"stage":"date",
+	"code":"2021-02-27",
+	"sort":120,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-27",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226121",
+	"sid":533145,
+	"label":"2021-02-28",
+	"stage":"date",
+	"code":"2021-02-28",
+	"sort":121,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-02-28",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122612",
+	"sid":533161,
+	"label":"Vuosi 2021 Viikko 09",
+	"stage":"week",
+	"code":"2021W09",
+	"sort":12,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W09",
+	"children": [
+{
+	"id":"dateweek20201226122",
+	"sid":533160,
+	"label":"2021-03-01",
+	"stage":"date",
+	"code":"2021-03-01",
+	"sort":122,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-01",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226123",
+	"sid":533204,
+	"label":"2021-03-02",
+	"stage":"date",
+	"code":"2021-03-02",
+	"sort":123,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-02",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226124",
+	"sid":533218,
+	"label":"2021-03-03",
+	"stage":"date",
+	"code":"2021-03-03",
+	"sort":124,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-03",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226125",
+	"sid":533257,
+	"label":"2021-03-04",
+	"stage":"date",
+	"code":"2021-03-04",
+	"sort":125,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-04",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226126",
+	"sid":533781,
+	"label":"2021-03-05",
+	"stage":"date",
+	"code":"2021-03-05",
+	"sort":126,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-05",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226127",
+	"sid":533788,
+	"label":"2021-03-06",
+	"stage":"date",
+	"code":"2021-03-06",
+	"sort":127,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226128",
+	"sid":533790,
+	"label":"2021-03-07",
+	"stage":"date",
+	"code":"2021-03-07",
+	"sort":128,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-07",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122613",
+	"sid":533828,
+	"label":"Vuosi 2021 Viikko 10",
+	"stage":"week",
+	"code":"2021W10",
+	"sort":13,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W10",
+	"children": [
+{
+	"id":"dateweek20201226129",
+	"sid":533827,
+	"label":"2021-03-08",
+	"stage":"date",
+	"code":"2021-03-08",
+	"sort":129,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-08",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226130",
+	"sid":533833,
+	"label":"2021-03-09",
+	"stage":"date",
+	"code":"2021-03-09",
+	"sort":130,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-09",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226131",
+	"sid":533854,
+	"label":"2021-03-10",
+	"stage":"date",
+	"code":"2021-03-10",
+	"sort":131,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-10",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226132",
+	"sid":533873,
+	"label":"2021-03-11",
+	"stage":"date",
+	"code":"2021-03-11",
+	"sort":132,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-11",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226133",
+	"sid":533881,
+	"label":"2021-03-12",
+	"stage":"date",
+	"code":"2021-03-12",
+	"sort":133,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-12",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226134",
+	"sid":533882,
+	"label":"2021-03-13",
+	"stage":"date",
+	"code":"2021-03-13",
+	"sort":134,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-13",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226135",
+	"sid":533884,
+	"label":"2021-03-14",
+	"stage":"date",
+	"code":"2021-03-14",
+	"sort":135,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-14",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122614",
+	"sid":533893,
+	"label":"Vuosi 2021 Viikko 11",
+	"stage":"week",
+	"code":"2021W11",
+	"sort":14,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W11",
+	"children": [
+{
+	"id":"dateweek20201226136",
+	"sid":533892,
+	"label":"2021-03-15",
+	"stage":"date",
+	"code":"2021-03-15",
+	"sort":136,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-15",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226137",
+	"sid":533949,
+	"label":"2021-03-16",
+	"stage":"date",
+	"code":"2021-03-16",
+	"sort":137,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-16",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226138",
+	"sid":533962,
+	"label":"2021-03-17",
+	"stage":"date",
+	"code":"2021-03-17",
+	"sort":138,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-17",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226139",
+	"sid":537495,
+	"label":"2021-03-18",
+	"stage":"date",
+	"code":"2021-03-18",
+	"sort":139,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-18",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226140",
+	"sid":537576,
+	"label":"2021-03-19",
+	"stage":"date",
+	"code":"2021-03-19",
+	"sort":140,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-19",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226141",
+	"sid":537670,
+	"label":"2021-03-20",
+	"stage":"date",
+	"code":"2021-03-20",
+	"sort":141,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-20",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226142",
+	"sid":537671,
+	"label":"2021-03-21",
+	"stage":"date",
+	"code":"2021-03-21",
+	"sort":142,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-21",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122615",
+	"sid":537676,
+	"label":"Vuosi 2021 Viikko 12",
+	"stage":"week",
+	"code":"2021W12",
+	"sort":15,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W12",
+	"children": [
+{
+	"id":"dateweek20201226143",
+	"sid":537677,
+	"label":"2021-03-22",
+	"stage":"date",
+	"code":"2021-03-22",
+	"sort":143,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-22",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226144",
+	"sid":537680,
+	"label":"2021-03-23",
+	"stage":"date",
+	"code":"2021-03-23",
+	"sort":144,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-23",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226145",
+	"sid":537693,
+	"label":"2021-03-24",
+	"stage":"date",
+	"code":"2021-03-24",
+	"sort":145,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-24",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226146",
+	"sid":537697,
+	"label":"2021-03-25",
+	"stage":"date",
+	"code":"2021-03-25",
+	"sort":146,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-25",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226147",
+	"sid":537707,
+	"label":"2021-03-26",
+	"stage":"date",
+	"code":"2021-03-26",
+	"sort":147,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-26",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226148",
+	"sid":537767,
+	"label":"2021-03-27",
+	"stage":"date",
+	"code":"2021-03-27",
+	"sort":148,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-27",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226149",
+	"sid":539113,
+	"label":"2021-03-28",
+	"stage":"date",
+	"code":"2021-03-28",
+	"sort":149,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-28",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122616",
+	"sid":539117,
+	"label":"Vuosi 2021 Viikko 13",
+	"stage":"week",
+	"code":"2021W13",
+	"sort":16,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W13",
+	"children": [
+{
+	"id":"dateweek20201226150",
+	"sid":539118,
+	"label":"2021-03-29",
+	"stage":"date",
+	"code":"2021-03-29",
+	"sort":150,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-29",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226151",
+	"sid":539124,
+	"label":"2021-03-30",
+	"stage":"date",
+	"code":"2021-03-30",
+	"sort":151,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-30",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226152",
+	"sid":546356,
+	"label":"2021-03-31",
+	"stage":"date",
+	"code":"2021-03-31",
+	"sort":152,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-03-31",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226153",
+	"sid":546363,
+	"label":"2021-04-01",
+	"stage":"date",
+	"code":"2021-04-01",
+	"sort":153,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-01",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226154",
+	"sid":547292,
+	"label":"2021-04-02",
+	"stage":"date",
+	"code":"2021-04-02",
+	"sort":154,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-02",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226155",
+	"sid":547298,
+	"label":"2021-04-03",
+	"stage":"date",
+	"code":"2021-04-03",
+	"sort":155,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-03",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226156",
+	"sid":547301,
+	"label":"2021-04-04",
+	"stage":"date",
+	"code":"2021-04-04",
+	"sort":156,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-04",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122617",
+	"sid":547307,
+	"label":"Vuosi 2021 Viikko 14",
+	"stage":"week",
+	"code":"2021W14",
+	"sort":17,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W14",
+	"children": [
+{
+	"id":"dateweek20201226157",
+	"sid":547308,
+	"label":"2021-04-05",
+	"stage":"date",
+	"code":"2021-04-05",
+	"sort":157,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-05",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226158",
+	"sid":547313,
+	"label":"2021-04-06",
+	"stage":"date",
+	"code":"2021-04-06",
+	"sort":158,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226159",
+	"sid":547319,
+	"label":"2021-04-07",
+	"stage":"date",
+	"code":"2021-04-07",
+	"sort":159,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-07",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226160",
+	"sid":547331,
+	"label":"2021-04-08",
+	"stage":"date",
+	"code":"2021-04-08",
+	"sort":160,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-08",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226161",
+	"sid":547341,
+	"label":"2021-04-09",
+	"stage":"date",
+	"code":"2021-04-09",
+	"sort":161,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-09",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226162",
+	"sid":547342,
+	"label":"2021-04-10",
+	"stage":"date",
+	"code":"2021-04-10",
+	"sort":162,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-10",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226163",
+	"sid":547346,
+	"label":"2021-04-11",
+	"stage":"date",
+	"code":"2021-04-11",
+	"sort":163,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-11",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122618",
+	"sid":547361,
+	"label":"Vuosi 2021 Viikko 15",
+	"stage":"week",
+	"code":"2021W15",
+	"sort":18,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W15",
+	"children": [
+{
+	"id":"dateweek20201226164",
+	"sid":547360,
+	"label":"2021-04-12",
+	"stage":"date",
+	"code":"2021-04-12",
+	"sort":164,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-12",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226165",
+	"sid":547377,
+	"label":"2021-04-13",
+	"stage":"date",
+	"code":"2021-04-13",
+	"sort":165,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-13",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226166",
+	"sid":547387,
+	"label":"2021-04-14",
+	"stage":"date",
+	"code":"2021-04-14",
+	"sort":166,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-14",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226167",
+	"sid":547409,
+	"label":"2021-04-15",
+	"stage":"date",
+	"code":"2021-04-15",
+	"sort":167,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-15",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226168",
+	"sid":547494,
+	"label":"2021-04-16",
+	"stage":"date",
+	"code":"2021-04-16",
+	"sort":168,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-16",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226169",
+	"sid":547498,
+	"label":"2021-04-17",
+	"stage":"date",
+	"code":"2021-04-17",
+	"sort":169,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-17",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226170",
+	"sid":547504,
+	"label":"2021-04-18",
+	"stage":"date",
+	"code":"2021-04-18",
+	"sort":170,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-18",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122619",
+	"sid":547509,
+	"label":"Vuosi 2021 Viikko 16",
+	"stage":"week",
+	"code":"2021W16",
+	"sort":19,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W16",
+	"children": [
+{
+	"id":"dateweek20201226171",
+	"sid":547508,
+	"label":"2021-04-19",
+	"stage":"date",
+	"code":"2021-04-19",
+	"sort":171,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-19",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226172",
+	"sid":547515,
+	"label":"2021-04-20",
+	"stage":"date",
+	"code":"2021-04-20",
+	"sort":172,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-20",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226173",
+	"sid":547524,
+	"label":"2021-04-21",
+	"stage":"date",
+	"code":"2021-04-21",
+	"sort":173,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-21",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226174",
+	"sid":547533,
+	"label":"2021-04-22",
+	"stage":"date",
+	"code":"2021-04-22",
+	"sort":174,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-22",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226175",
+	"sid":547540,
+	"label":"2021-04-23",
+	"stage":"date",
+	"code":"2021-04-23",
+	"sort":175,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-23",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226176",
+	"sid":547550,
+	"label":"2021-04-24",
+	"stage":"date",
+	"code":"2021-04-24",
+	"sort":176,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-24",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226177",
+	"sid":547555,
+	"label":"2021-04-25",
+	"stage":"date",
+	"code":"2021-04-25",
+	"sort":177,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-25",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122620",
+	"sid":547559,
+	"label":"Vuosi 2021 Viikko 17",
+	"stage":"week",
+	"code":"2021W17",
+	"sort":20,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W17",
+	"children": [
+{
+	"id":"dateweek20201226178",
+	"sid":547560,
+	"label":"2021-04-26",
+	"stage":"date",
+	"code":"2021-04-26",
+	"sort":178,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-26",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226179",
+	"sid":554853,
+	"label":"2021-04-27",
+	"stage":"date",
+	"code":"2021-04-27",
+	"sort":179,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-27",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226180",
+	"sid":554863,
+	"label":"2021-04-28",
+	"stage":"date",
+	"code":"2021-04-28",
+	"sort":180,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-28",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226181",
+	"sid":565977,
+	"label":"2021-04-29",
+	"stage":"date",
+	"code":"2021-04-29",
+	"sort":181,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-29",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226182",
+	"sid":565992,
+	"label":"2021-04-30",
+	"stage":"date",
+	"code":"2021-04-30",
+	"sort":182,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-04-30",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226183",
+	"sid":565998,
+	"label":"2021-05-01",
+	"stage":"date",
+	"code":"2021-05-01",
+	"sort":183,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-01",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226184",
+	"sid":566007,
+	"label":"2021-05-02",
+	"stage":"date",
+	"code":"2021-05-02",
+	"sort":184,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-02",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122621",
+	"sid":566011,
+	"label":"Vuosi 2021 Viikko 18",
+	"stage":"week",
+	"code":"2021W18",
+	"sort":21,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W18",
+	"children": [
+{
+	"id":"dateweek20201226185",
+	"sid":566015,
+	"label":"2021-05-03",
+	"stage":"date",
+	"code":"2021-05-03",
+	"sort":185,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-03",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226186",
+	"sid":566730,
+	"label":"2021-05-04",
+	"stage":"date",
+	"code":"2021-05-04",
+	"sort":186,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-04",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226187",
+	"sid":566931,
+	"label":"2021-05-05",
+	"stage":"date",
+	"code":"2021-05-05",
+	"sort":187,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-05",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226188",
+	"sid":566955,
+	"label":"2021-05-06",
+	"stage":"date",
+	"code":"2021-05-06",
+	"sort":188,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226189",
+	"sid":567596,
+	"label":"2021-05-07",
+	"stage":"date",
+	"code":"2021-05-07",
+	"sort":189,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-07",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226190",
+	"sid":567617,
+	"label":"2021-05-08",
+	"stage":"date",
+	"code":"2021-05-08",
+	"sort":190,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-08",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226191",
+	"sid":567624,
+	"label":"2021-05-09",
+	"stage":"date",
+	"code":"2021-05-09",
+	"sort":191,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-09",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122622",
+	"sid":567632,
+	"label":"Vuosi 2021 Viikko 19",
+	"stage":"week",
+	"code":"2021W19",
+	"sort":22,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W19",
+	"children": [
+{
+	"id":"dateweek20201226192",
+	"sid":567631,
+	"label":"2021-05-10",
+	"stage":"date",
+	"code":"2021-05-10",
+	"sort":192,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-10",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226193",
+	"sid":567676,
+	"label":"2021-05-11",
+	"stage":"date",
+	"code":"2021-05-11",
+	"sort":193,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-11",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226194",
+	"sid":567694,
+	"label":"2021-05-12",
+	"stage":"date",
+	"code":"2021-05-12",
+	"sort":194,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-12",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226195",
+	"sid":568043,
+	"label":"2021-05-13",
+	"stage":"date",
+	"code":"2021-05-13",
+	"sort":195,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-13",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226196",
+	"sid":568068,
+	"label":"2021-05-14",
+	"stage":"date",
+	"code":"2021-05-14",
+	"sort":196,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-14",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226197",
+	"sid":568071,
+	"label":"2021-05-15",
+	"stage":"date",
+	"code":"2021-05-15",
+	"sort":197,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-15",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226198",
+	"sid":568148,
+	"label":"2021-05-16",
+	"stage":"date",
+	"code":"2021-05-16",
+	"sort":198,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-16",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122623",
+	"sid":568219,
+	"label":"Vuosi 2021 Viikko 20",
+	"stage":"week",
+	"code":"2021W20",
+	"sort":23,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W20",
+	"children": [
+{
+	"id":"dateweek20201226199",
+	"sid":568218,
+	"label":"2021-05-17",
+	"stage":"date",
+	"code":"2021-05-17",
+	"sort":199,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-17",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226200",
+	"sid":568227,
+	"label":"2021-05-18",
+	"stage":"date",
+	"code":"2021-05-18",
+	"sort":200,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-18",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226201",
+	"sid":568235,
+	"label":"2021-05-19",
+	"stage":"date",
+	"code":"2021-05-19",
+	"sort":201,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-19",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226202",
+	"sid":580313,
+	"label":"2021-05-20",
+	"stage":"date",
+	"code":"2021-05-20",
+	"sort":202,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-20",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226203",
+	"sid":580326,
+	"label":"2021-05-21",
+	"stage":"date",
+	"code":"2021-05-21",
+	"sort":203,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-21",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226204",
+	"sid":580330,
+	"label":"2021-05-22",
+	"stage":"date",
+	"code":"2021-05-22",
+	"sort":204,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-22",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226205",
+	"sid":580336,
+	"label":"2021-05-23",
+	"stage":"date",
+	"code":"2021-05-23",
+	"sort":205,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-23",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122624",
+	"sid":580342,
+	"label":"Vuosi 2021 Viikko 21",
+	"stage":"week",
+	"code":"2021W21",
+	"sort":24,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W21",
+	"children": [
+{
+	"id":"dateweek20201226206",
+	"sid":580341,
+	"label":"2021-05-24",
+	"stage":"date",
+	"code":"2021-05-24",
+	"sort":206,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-24",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226207",
+	"sid":580406,
+	"label":"2021-05-25",
+	"stage":"date",
+	"code":"2021-05-25",
+	"sort":207,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-25",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226208",
+	"sid":580416,
+	"label":"2021-05-26",
+	"stage":"date",
+	"code":"2021-05-26",
+	"sort":208,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-26",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226209",
+	"sid":580422,
+	"label":"2021-05-27",
+	"stage":"date",
+	"code":"2021-05-27",
+	"sort":209,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-27",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226210",
+	"sid":580433,
+	"label":"2021-05-28",
+	"stage":"date",
+	"code":"2021-05-28",
+	"sort":210,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-28",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226211",
+	"sid":580438,
+	"label":"2021-05-29",
+	"stage":"date",
+	"code":"2021-05-29",
+	"sort":211,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-29",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226212",
+	"sid":580439,
+	"label":"2021-05-30",
+	"stage":"date",
+	"code":"2021-05-30",
+	"sort":212,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-30",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122625",
+	"sid":580442,
+	"label":"Vuosi 2021 Viikko 22",
+	"stage":"week",
+	"code":"2021W22",
+	"sort":25,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W22",
+	"children": [
+{
+	"id":"dateweek20201226213",
+	"sid":580443,
+	"label":"2021-05-31",
+	"stage":"date",
+	"code":"2021-05-31",
+	"sort":213,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-05-31",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226214",
+	"sid":580773,
+	"label":"2021-06-01",
+	"stage":"date",
+	"code":"2021-06-01",
+	"sort":214,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-01",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226215",
+	"sid":580978,
+	"label":"2021-06-02",
+	"stage":"date",
+	"code":"2021-06-02",
+	"sort":215,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-02",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226216",
+	"sid":580983,
+	"label":"2021-06-03",
+	"stage":"date",
+	"code":"2021-06-03",
+	"sort":216,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-03",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226217",
+	"sid":580995,
+	"label":"2021-06-04",
+	"stage":"date",
+	"code":"2021-06-04",
+	"sort":217,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-04",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226218",
+	"sid":580999,
+	"label":"2021-06-05",
+	"stage":"date",
+	"code":"2021-06-05",
+	"sort":218,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-05",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226219",
+	"sid":581002,
+	"label":"2021-06-06",
+	"stage":"date",
+	"code":"2021-06-06",
+	"sort":219,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-06",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122626",
+	"sid":581008,
+	"label":"Vuosi 2021 Viikko 23",
+	"stage":"week",
+	"code":"2021W23",
+	"sort":26,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W23",
+	"children": [
+{
+	"id":"dateweek20201226220",
+	"sid":581007,
+	"label":"2021-06-07",
+	"stage":"date",
+	"code":"2021-06-07",
+	"sort":220,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-07",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226221",
+	"sid":581011,
+	"label":"2021-06-08",
+	"stage":"date",
+	"code":"2021-06-08",
+	"sort":221,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-08",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226222",
+	"sid":581026,
+	"label":"2021-06-09",
+	"stage":"date",
+	"code":"2021-06-09",
+	"sort":222,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-09",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226223",
+	"sid":581058,
+	"label":"2021-06-10",
+	"stage":"date",
+	"code":"2021-06-10",
+	"sort":223,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-10",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226224",
+	"sid":581077,
+	"label":"2021-06-11",
+	"stage":"date",
+	"code":"2021-06-11",
+	"sort":224,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-11",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226225",
+	"sid":581082,
+	"label":"2021-06-12",
+	"stage":"date",
+	"code":"2021-06-12",
+	"sort":225,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-12",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226226",
+	"sid":581092,
+	"label":"2021-06-13",
+	"stage":"date",
+	"code":"2021-06-13",
+	"sort":226,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-13",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122627",
+	"sid":581100,
+	"label":"Vuosi 2021 Viikko 24",
+	"stage":"week",
+	"code":"2021W24",
+	"sort":27,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W24",
+	"children": [
+{
+	"id":"dateweek20201226227",
+	"sid":581101,
+	"label":"2021-06-14",
+	"stage":"date",
+	"code":"2021-06-14",
+	"sort":227,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-14",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226228",
+	"sid":581105,
+	"label":"2021-06-15",
+	"stage":"date",
+	"code":"2021-06-15",
+	"sort":228,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-15",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226229",
+	"sid":581176,
+	"label":"2021-06-16",
+	"stage":"date",
+	"code":"2021-06-16",
+	"sort":229,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-16",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226230",
+	"sid":590238,
+	"label":"2021-06-17",
+	"stage":"date",
+	"code":"2021-06-17",
+	"sort":230,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-17",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226231",
+	"sid":590245,
+	"label":"2021-06-18",
+	"stage":"date",
+	"code":"2021-06-18",
+	"sort":231,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-18",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226232",
+	"sid":590252,
+	"label":"2021-06-19",
+	"stage":"date",
+	"code":"2021-06-19",
+	"sort":232,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-19",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226233",
+	"sid":590255,
+	"label":"2021-06-20",
+	"stage":"date",
+	"code":"2021-06-20",
+	"sort":233,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-20",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122628",
+	"sid":590261,
+	"label":"Vuosi 2021 Viikko 25",
+	"stage":"week",
+	"code":"2021W25",
+	"sort":28,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W25",
+	"children": [
+{
+	"id":"dateweek20201226234",
+	"sid":590262,
+	"label":"2021-06-21",
+	"stage":"date",
+	"code":"2021-06-21",
+	"sort":234,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-21",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226235",
+	"sid":592719,
+	"label":"2021-06-22",
+	"stage":"date",
+	"code":"2021-06-22",
+	"sort":235,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-22",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226236",
+	"sid":592733,
+	"label":"2021-06-23",
+	"stage":"date",
+	"code":"2021-06-23",
+	"sort":236,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-23",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226237",
+	"sid":592889,
+	"label":"2021-06-24",
+	"stage":"date",
+	"code":"2021-06-24",
+	"sort":237,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-24",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226238",
+	"sid":600759,
+	"label":"2021-06-25",
+	"stage":"date",
+	"code":"2021-06-25",
+	"sort":238,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-25",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226239",
+	"sid":600761,
+	"label":"2021-06-26",
+	"stage":"date",
+	"code":"2021-06-26",
+	"sort":239,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-26",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226240",
+	"sid":600762,
+	"label":"2021-06-27",
+	"stage":"date",
+	"code":"2021-06-27",
+	"sort":240,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-27",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122629",
+	"sid":600765,
+	"label":"Vuosi 2021 Viikko 26",
+	"stage":"week",
+	"code":"2021W26",
+	"sort":29,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W26",
+	"children": [
+{
+	"id":"dateweek20201226241",
+	"sid":600766,
+	"label":"2021-06-28",
+	"stage":"date",
+	"code":"2021-06-28",
+	"sort":241,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-28",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226242",
+	"sid":600769,
+	"label":"2021-06-29",
+	"stage":"date",
+	"code":"2021-06-29",
+	"sort":242,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-29",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226243",
+	"sid":600771,
+	"label":"2021-06-30",
+	"stage":"date",
+	"code":"2021-06-30",
+	"sort":243,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-06-30",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226244",
+	"sid":600779,
+	"label":"2021-07-01",
+	"stage":"date",
+	"code":"2021-07-01",
+	"sort":244,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-01",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226245",
+	"sid":600791,
+	"label":"2021-07-02",
+	"stage":"date",
+	"code":"2021-07-02",
+	"sort":245,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-02",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226246",
+	"sid":601502,
+	"label":"2021-07-03",
+	"stage":"date",
+	"code":"2021-07-03",
+	"sort":246,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-03",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226247",
+	"sid":601506,
+	"label":"2021-07-04",
+	"stage":"date",
+	"code":"2021-07-04",
+	"sort":247,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-04",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122630",
+	"sid":601510,
+	"label":"Vuosi 2021 Viikko 27",
+	"stage":"week",
+	"code":"2021W27",
+	"sort":30,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W27",
+	"children": [
+{
+	"id":"dateweek20201226248",
+	"sid":601509,
+	"label":"2021-07-05",
+	"stage":"date",
+	"code":"2021-07-05",
+	"sort":248,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-05",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226249",
+	"sid":601518,
+	"label":"2021-07-06",
+	"stage":"date",
+	"code":"2021-07-06",
+	"sort":249,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226250",
+	"sid":601835,
+	"label":"2021-07-07",
+	"stage":"date",
+	"code":"2021-07-07",
+	"sort":250,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-07",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226251",
+	"sid":601840,
+	"label":"2021-07-08",
+	"stage":"date",
+	"code":"2021-07-08",
+	"sort":251,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-08",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226252",
+	"sid":601848,
+	"label":"2021-07-09",
+	"stage":"date",
+	"code":"2021-07-09",
+	"sort":252,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-09",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226253",
+	"sid":601851,
+	"label":"2021-07-10",
+	"stage":"date",
+	"code":"2021-07-10",
+	"sort":253,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-10",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226254",
+	"sid":601860,
+	"label":"2021-07-11",
+	"stage":"date",
+	"code":"2021-07-11",
+	"sort":254,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-11",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122631",
+	"sid":601865,
+	"label":"Vuosi 2021 Viikko 28",
+	"stage":"week",
+	"code":"2021W28",
+	"sort":31,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W28",
+	"children": [
+{
+	"id":"dateweek20201226255",
+	"sid":601866,
+	"label":"2021-07-12",
+	"stage":"date",
+	"code":"2021-07-12",
+	"sort":255,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-12",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226256",
+	"sid":601869,
+	"label":"2021-07-13",
+	"stage":"date",
+	"code":"2021-07-13",
+	"sort":256,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-13",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226257",
+	"sid":601874,
+	"label":"2021-07-14",
+	"stage":"date",
+	"code":"2021-07-14",
+	"sort":257,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-14",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226258",
+	"sid":601880,
+	"label":"2021-07-15",
+	"stage":"date",
+	"code":"2021-07-15",
+	"sort":258,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-15",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226259",
+	"sid":601946,
+	"label":"2021-07-16",
+	"stage":"date",
+	"code":"2021-07-16",
+	"sort":259,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-16",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226260",
+	"sid":601950,
+	"label":"2021-07-17",
+	"stage":"date",
+	"code":"2021-07-17",
+	"sort":260,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-17",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226261",
+	"sid":601954,
+	"label":"2021-07-18",
+	"stage":"date",
+	"code":"2021-07-18",
+	"sort":261,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-18",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122632",
+	"sid":601960,
+	"label":"Vuosi 2021 Viikko 29",
+	"stage":"week",
+	"code":"2021W29",
+	"sort":32,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W29",
+	"children": [
+{
+	"id":"dateweek20201226262",
+	"sid":601961,
+	"label":"2021-07-19",
+	"stage":"date",
+	"code":"2021-07-19",
+	"sort":262,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-19",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226263",
+	"sid":601965,
+	"label":"2021-07-20",
+	"stage":"date",
+	"code":"2021-07-20",
+	"sort":263,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-20",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226264",
+	"sid":601967,
+	"label":"2021-07-21",
+	"stage":"date",
+	"code":"2021-07-21",
+	"sort":264,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-21",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226265",
+	"sid":601970,
+	"label":"2021-07-22",
+	"stage":"date",
+	"code":"2021-07-22",
+	"sort":265,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-22",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226266",
+	"sid":601972,
+	"label":"2021-07-23",
+	"stage":"date",
+	"code":"2021-07-23",
+	"sort":266,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-23",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226267",
+	"sid":601975,
+	"label":"2021-07-24",
+	"stage":"date",
+	"code":"2021-07-24",
+	"sort":267,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-24",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226268",
+	"sid":601977,
+	"label":"2021-07-25",
+	"stage":"date",
+	"code":"2021-07-25",
+	"sort":268,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-25",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122633",
+	"sid":601981,
+	"label":"Vuosi 2021 Viikko 30",
+	"stage":"week",
+	"code":"2021W30",
+	"sort":33,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W30",
+	"children": [
+{
+	"id":"dateweek20201226269",
+	"sid":601982,
+	"label":"2021-07-26",
+	"stage":"date",
+	"code":"2021-07-26",
+	"sort":269,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-26",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226270",
+	"sid":601983,
+	"label":"2021-07-27",
+	"stage":"date",
+	"code":"2021-07-27",
+	"sort":270,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-27",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226271",
+	"sid":601991,
+	"label":"2021-07-28",
+	"stage":"date",
+	"code":"2021-07-28",
+	"sort":271,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-28",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226272",
+	"sid":602016,
+	"label":"2021-07-29",
+	"stage":"date",
+	"code":"2021-07-29",
+	"sort":272,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-29",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226273",
+	"sid":602260,
+	"label":"2021-07-30",
+	"stage":"date",
+	"code":"2021-07-30",
+	"sort":273,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-30",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226274",
+	"sid":602262,
+	"label":"2021-07-31",
+	"stage":"date",
+	"code":"2021-07-31",
+	"sort":274,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-07-31",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226275",
+	"sid":602266,
+	"label":"2021-08-01",
+	"stage":"date",
+	"code":"2021-08-01",
+	"sort":275,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-01",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122634",
+	"sid":602272,
+	"label":"Vuosi 2021 Viikko 31",
+	"stage":"week",
+	"code":"2021W31",
+	"sort":34,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W31",
+	"children": [
+{
+	"id":"dateweek20201226276",
+	"sid":602271,
+	"label":"2021-08-02",
+	"stage":"date",
+	"code":"2021-08-02",
+	"sort":276,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-02",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226277",
+	"sid":602275,
+	"label":"2021-08-03",
+	"stage":"date",
+	"code":"2021-08-03",
+	"sort":277,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-03",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226278",
+	"sid":602285,
+	"label":"2021-08-04",
+	"stage":"date",
+	"code":"2021-08-04",
+	"sort":278,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-04",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226279",
+	"sid":602380,
+	"label":"2021-08-05",
+	"stage":"date",
+	"code":"2021-08-05",
+	"sort":279,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-05",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226280",
+	"sid":602385,
+	"label":"2021-08-06",
+	"stage":"date",
+	"code":"2021-08-06",
+	"sort":280,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226281",
+	"sid":602387,
+	"label":"2021-08-07",
+	"stage":"date",
+	"code":"2021-08-07",
+	"sort":281,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-07",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226282",
+	"sid":602391,
+	"label":"2021-08-08",
+	"stage":"date",
+	"code":"2021-08-08",
+	"sort":282,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-08",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122635",
+	"sid":602655,
+	"label":"Vuosi 2021 Viikko 32",
+	"stage":"week",
+	"code":"2021W32",
+	"sort":35,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W32",
+	"children": [
+{
+	"id":"dateweek20201226283",
+	"sid":602654,
+	"label":"2021-08-09",
+	"stage":"date",
+	"code":"2021-08-09",
+	"sort":283,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-09",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226284",
+	"sid":602660,
+	"label":"2021-08-10",
+	"stage":"date",
+	"code":"2021-08-10",
+	"sort":284,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-10",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226285",
+	"sid":602850,
+	"label":"2021-08-11",
+	"stage":"date",
+	"code":"2021-08-11",
+	"sort":285,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-11",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226286",
+	"sid":610731,
+	"label":"2021-08-12",
+	"stage":"date",
+	"code":"2021-08-12",
+	"sort":286,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-12",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226287",
+	"sid":610742,
+	"label":"2021-08-13",
+	"stage":"date",
+	"code":"2021-08-13",
+	"sort":287,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-13",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226288",
+	"sid":610750,
+	"label":"2021-08-14",
+	"stage":"date",
+	"code":"2021-08-14",
+	"sort":288,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-14",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226289",
+	"sid":610754,
+	"label":"2021-08-15",
+	"stage":"date",
+	"code":"2021-08-15",
+	"sort":289,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-15",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122636",
+	"sid":610782,
+	"label":"Vuosi 2021 Viikko 33",
+	"stage":"week",
+	"code":"2021W33",
+	"sort":36,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W33",
+	"children": [
+{
+	"id":"dateweek20201226290",
+	"sid":610781,
+	"label":"2021-08-16",
+	"stage":"date",
+	"code":"2021-08-16",
+	"sort":290,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-16",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226291",
+	"sid":610789,
+	"label":"2021-08-17",
+	"stage":"date",
+	"code":"2021-08-17",
+	"sort":291,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-17",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226292",
+	"sid":610797,
+	"label":"2021-08-18",
+	"stage":"date",
+	"code":"2021-08-18",
+	"sort":292,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-18",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226293",
+	"sid":610801,
+	"label":"2021-08-19",
+	"stage":"date",
+	"code":"2021-08-19",
+	"sort":293,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-19",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226294",
+	"sid":610816,
+	"label":"2021-08-20",
+	"stage":"date",
+	"code":"2021-08-20",
+	"sort":294,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-20",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226295",
+	"sid":610821,
+	"label":"2021-08-21",
+	"stage":"date",
+	"code":"2021-08-21",
+	"sort":295,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-21",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226296",
+	"sid":610826,
+	"label":"2021-08-22",
+	"stage":"date",
+	"code":"2021-08-22",
+	"sort":296,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-22",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122637",
+	"sid":610832,
+	"label":"Vuosi 2021 Viikko 34",
+	"stage":"week",
+	"code":"2021W34",
+	"sort":37,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W34",
+	"children": [
+{
+	"id":"dateweek20201226297",
+	"sid":610831,
+	"label":"2021-08-23",
+	"stage":"date",
+	"code":"2021-08-23",
+	"sort":297,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-23",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226298",
+	"sid":610836,
+	"label":"2021-08-24",
+	"stage":"date",
+	"code":"2021-08-24",
+	"sort":298,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-24",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226299",
+	"sid":610843,
+	"label":"2021-08-25",
+	"stage":"date",
+	"code":"2021-08-25",
+	"sort":299,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-25",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226300",
+	"sid":610867,
+	"label":"2021-08-26",
+	"stage":"date",
+	"code":"2021-08-26",
+	"sort":300,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-26",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226301",
+	"sid":617637,
+	"label":"2021-08-27",
+	"stage":"date",
+	"code":"2021-08-27",
+	"sort":301,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-27",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226302",
+	"sid":617641,
+	"label":"2021-08-28",
+	"stage":"date",
+	"code":"2021-08-28",
+	"sort":302,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-28",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226303",
+	"sid":617643,
+	"label":"2021-08-29",
+	"stage":"date",
+	"code":"2021-08-29",
+	"sort":303,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-29",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122638",
+	"sid":617752,
+	"label":"Vuosi 2021 Viikko 35",
+	"stage":"week",
+	"code":"2021W35",
+	"sort":38,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W35",
+	"children": [
+{
+	"id":"dateweek20201226304",
+	"sid":617753,
+	"label":"2021-08-30",
+	"stage":"date",
+	"code":"2021-08-30",
+	"sort":304,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-30",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226305",
+	"sid":617756,
+	"label":"2021-08-31",
+	"stage":"date",
+	"code":"2021-08-31",
+	"sort":305,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-08-31",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226306",
+	"sid":617766,
+	"label":"2021-09-01",
+	"stage":"date",
+	"code":"2021-09-01",
+	"sort":306,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-01",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226307",
+	"sid":617989,
+	"label":"2021-09-02",
+	"stage":"date",
+	"code":"2021-09-02",
+	"sort":307,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-02",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226308",
+	"sid":618002,
+	"label":"2021-09-03",
+	"stage":"date",
+	"code":"2021-09-03",
+	"sort":308,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-03",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226309",
+	"sid":618170,
+	"label":"2021-09-04",
+	"stage":"date",
+	"code":"2021-09-04",
+	"sort":309,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-04",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226310",
+	"sid":618173,
+	"label":"2021-09-05",
+	"stage":"date",
+	"code":"2021-09-05",
+	"sort":310,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-05",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122639",
+	"sid":618236,
+	"label":"Vuosi 2021 Viikko 36",
+	"stage":"week",
+	"code":"2021W36",
+	"sort":39,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W36",
+	"children": [
+{
+	"id":"dateweek20201226311",
+	"sid":618237,
+	"label":"2021-09-06",
+	"stage":"date",
+	"code":"2021-09-06",
+	"sort":311,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226312",
+	"sid":618248,
+	"label":"2021-09-07",
+	"stage":"date",
+	"code":"2021-09-07",
+	"sort":312,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-07",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226313",
+	"sid":618435,
+	"label":"2021-09-08",
+	"stage":"date",
+	"code":"2021-09-08",
+	"sort":313,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-08",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226314",
+	"sid":618439,
+	"label":"2021-09-09",
+	"stage":"date",
+	"code":"2021-09-09",
+	"sort":314,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-09",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226315",
+	"sid":619244,
+	"label":"2021-09-10",
+	"stage":"date",
+	"code":"2021-09-10",
+	"sort":315,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-10",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226316",
+	"sid":619264,
+	"label":"2021-09-11",
+	"stage":"date",
+	"code":"2021-09-11",
+	"sort":316,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-11",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226317",
+	"sid":619269,
+	"label":"2021-09-12",
+	"stage":"date",
+	"code":"2021-09-12",
+	"sort":317,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-12",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122640",
+	"sid":619370,
+	"label":"Vuosi 2021 Viikko 37",
+	"stage":"week",
+	"code":"2021W37",
+	"sort":40,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W37",
+	"children": [
+{
+	"id":"dateweek20201226318",
+	"sid":619369,
+	"label":"2021-09-13",
+	"stage":"date",
+	"code":"2021-09-13",
+	"sort":318,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-13",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226319",
+	"sid":619409,
+	"label":"2021-09-14",
+	"stage":"date",
+	"code":"2021-09-14",
+	"sort":319,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-14",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226320",
+	"sid":619426,
+	"label":"2021-09-15",
+	"stage":"date",
+	"code":"2021-09-15",
+	"sort":320,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-15",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226321",
+	"sid":619518,
+	"label":"2021-09-16",
+	"stage":"date",
+	"code":"2021-09-16",
+	"sort":321,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-16",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226322",
+	"sid":627507,
+	"label":"2021-09-17",
+	"stage":"date",
+	"code":"2021-09-17",
+	"sort":322,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-17",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226323",
+	"sid":627512,
+	"label":"2021-09-18",
+	"stage":"date",
+	"code":"2021-09-18",
+	"sort":323,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-18",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226324",
+	"sid":627516,
+	"label":"2021-09-19",
+	"stage":"date",
+	"code":"2021-09-19",
+	"sort":324,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-19",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122641",
+	"sid":627523,
+	"label":"Vuosi 2021 Viikko 38",
+	"stage":"week",
+	"code":"2021W38",
+	"sort":41,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W38",
+	"children": [
+{
+	"id":"dateweek20201226325",
+	"sid":627522,
+	"label":"2021-09-20",
+	"stage":"date",
+	"code":"2021-09-20",
+	"sort":325,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-20",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226326",
+	"sid":627759,
+	"label":"2021-09-21",
+	"stage":"date",
+	"code":"2021-09-21",
+	"sort":326,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-21",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226327",
+	"sid":627949,
+	"label":"2021-09-22",
+	"stage":"date",
+	"code":"2021-09-22",
+	"sort":327,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-22",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226328",
+	"sid":627969,
+	"label":"2021-09-23",
+	"stage":"date",
+	"code":"2021-09-23",
+	"sort":328,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-23",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226329",
+	"sid":627987,
+	"label":"2021-09-24",
+	"stage":"date",
+	"code":"2021-09-24",
+	"sort":329,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-24",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226330",
+	"sid":628792,
+	"label":"2021-09-25",
+	"stage":"date",
+	"code":"2021-09-25",
+	"sort":330,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-25",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226331",
+	"sid":628796,
+	"label":"2021-09-26",
+	"stage":"date",
+	"code":"2021-09-26",
+	"sort":331,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-26",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122642",
+	"sid":628801,
+	"label":"Vuosi 2021 Viikko 39",
+	"stage":"week",
+	"code":"2021W39",
+	"sort":42,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W39",
+	"children": [
+{
+	"id":"dateweek20201226332",
+	"sid":628800,
+	"label":"2021-09-27",
+	"stage":"date",
+	"code":"2021-09-27",
+	"sort":332,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-27",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226333",
+	"sid":628803,
+	"label":"2021-09-28",
+	"stage":"date",
+	"code":"2021-09-28",
+	"sort":333,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-28",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226334",
+	"sid":629013,
+	"label":"2021-09-29",
+	"stage":"date",
+	"code":"2021-09-29",
+	"sort":334,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-29",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226335",
+	"sid":629021,
+	"label":"2021-09-30",
+	"stage":"date",
+	"code":"2021-09-30",
+	"sort":335,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-09-30",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226336",
+	"sid":629117,
+	"label":"2021-10-01",
+	"stage":"date",
+	"code":"2021-10-01",
+	"sort":336,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-01",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226337",
+	"sid":629118,
+	"label":"2021-10-02",
+	"stage":"date",
+	"code":"2021-10-02",
+	"sort":337,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-02",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226338",
+	"sid":629119,
+	"label":"2021-10-03",
+	"stage":"date",
+	"code":"2021-10-03",
+	"sort":338,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-03",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122643",
+	"sid":629136,
+	"label":"Vuosi 2021 Viikko 40",
+	"stage":"week",
+	"code":"2021W40",
+	"sort":43,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W40",
+	"children": [
+{
+	"id":"dateweek20201226339",
+	"sid":629137,
+	"label":"2021-10-04",
+	"stage":"date",
+	"code":"2021-10-04",
+	"sort":339,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-04",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226340",
+	"sid":629144,
+	"label":"2021-10-05",
+	"stage":"date",
+	"code":"2021-10-05",
+	"sort":340,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-05",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226341",
+	"sid":629287,
+	"label":"2021-10-06",
+	"stage":"date",
+	"code":"2021-10-06",
+	"sort":341,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226342",
+	"sid":629292,
+	"label":"2021-10-07",
+	"stage":"date",
+	"code":"2021-10-07",
+	"sort":342,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-07",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226343",
+	"sid":629302,
+	"label":"2021-10-08",
+	"stage":"date",
+	"code":"2021-10-08",
+	"sort":343,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-08",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226344",
+	"sid":629308,
+	"label":"2021-10-09",
+	"stage":"date",
+	"code":"2021-10-09",
+	"sort":344,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-09",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226345",
+	"sid":629312,
+	"label":"2021-10-10",
+	"stage":"date",
+	"code":"2021-10-10",
+	"sort":345,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-10",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122644",
+	"sid":629319,
+	"label":"Vuosi 2021 Viikko 41",
+	"stage":"week",
+	"code":"2021W41",
+	"sort":44,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W41",
+	"children": [
+{
+	"id":"dateweek20201226346",
+	"sid":629320,
+	"label":"2021-10-11",
+	"stage":"date",
+	"code":"2021-10-11",
+	"sort":346,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-11",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226347",
+	"sid":629435,
+	"label":"2021-10-12",
+	"stage":"date",
+	"code":"2021-10-12",
+	"sort":347,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-12",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226348",
+	"sid":629834,
+	"label":"2021-10-13",
+	"stage":"date",
+	"code":"2021-10-13",
+	"sort":348,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-13",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226349",
+	"sid":629839,
+	"label":"2021-10-14",
+	"stage":"date",
+	"code":"2021-10-14",
+	"sort":349,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-14",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226350",
+	"sid":629848,
+	"label":"2021-10-15",
+	"stage":"date",
+	"code":"2021-10-15",
+	"sort":350,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-15",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226351",
+	"sid":630212,
+	"label":"2021-10-16",
+	"stage":"date",
+	"code":"2021-10-16",
+	"sort":351,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-16",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226352",
+	"sid":630214,
+	"label":"2021-10-17",
+	"stage":"date",
+	"code":"2021-10-17",
+	"sort":352,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-17",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122645",
+	"sid":630310,
+	"label":"Vuosi 2021 Viikko 42",
+	"stage":"week",
+	"code":"2021W42",
+	"sort":45,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W42",
+	"children": [
+{
+	"id":"dateweek20201226353",
+	"sid":630309,
+	"label":"2021-10-18",
+	"stage":"date",
+	"code":"2021-10-18",
+	"sort":353,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-18",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226354",
+	"sid":630317,
+	"label":"2021-10-19",
+	"stage":"date",
+	"code":"2021-10-19",
+	"sort":354,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-19",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226355",
+	"sid":639039,
+	"label":"2021-10-20",
+	"stage":"date",
+	"code":"2021-10-20",
+	"sort":355,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-20",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226356",
+	"sid":639146,
+	"label":"2021-10-21",
+	"stage":"date",
+	"code":"2021-10-21",
+	"sort":356,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-21",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226357",
+	"sid":639178,
+	"label":"2021-10-22",
+	"stage":"date",
+	"code":"2021-10-22",
+	"sort":357,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-22",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226358",
+	"sid":639187,
+	"label":"2021-10-23",
+	"stage":"date",
+	"code":"2021-10-23",
+	"sort":358,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-23",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226359",
+	"sid":639192,
+	"label":"2021-10-24",
+	"stage":"date",
+	"code":"2021-10-24",
+	"sort":359,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-24",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122646",
+	"sid":639251,
+	"label":"Vuosi 2021 Viikko 43",
+	"stage":"week",
+	"code":"2021W43",
+	"sort":46,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W43",
+	"children": [
+{
+	"id":"dateweek20201226360",
+	"sid":639252,
+	"label":"2021-10-25",
+	"stage":"date",
+	"code":"2021-10-25",
+	"sort":360,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-25",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226361",
+	"sid":639255,
+	"label":"2021-10-26",
+	"stage":"date",
+	"code":"2021-10-26",
+	"sort":361,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-26",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226362",
+	"sid":639261,
+	"label":"2021-10-27",
+	"stage":"date",
+	"code":"2021-10-27",
+	"sort":362,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-27",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226363",
+	"sid":639266,
+	"label":"2021-10-28",
+	"stage":"date",
+	"code":"2021-10-28",
+	"sort":363,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-28",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226364",
+	"sid":639278,
+	"label":"2021-10-29",
+	"stage":"date",
+	"code":"2021-10-29",
+	"sort":364,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-29",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226365",
+	"sid":639291,
+	"label":"2021-10-30",
+	"stage":"date",
+	"code":"2021-10-30",
+	"sort":365,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-30",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226366",
+	"sid":639294,
+	"label":"2021-10-31",
+	"stage":"date",
+	"code":"2021-10-31",
+	"sort":366,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-10-31",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122647",
+	"sid":639303,
+	"label":"Vuosi 2021 Viikko 44",
+	"stage":"week",
+	"code":"2021W44",
+	"sort":47,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W44",
+	"children": [
+{
+	"id":"dateweek20201226367",
+	"sid":639302,
+	"label":"2021-11-01",
+	"stage":"date",
+	"code":"2021-11-01",
+	"sort":367,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-01",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226368",
+	"sid":639307,
+	"label":"2021-11-02",
+	"stage":"date",
+	"code":"2021-11-02",
+	"sort":368,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-02",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226369",
+	"sid":639359,
+	"label":"2021-11-03",
+	"stage":"date",
+	"code":"2021-11-03",
+	"sort":369,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-03",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226370",
+	"sid":640738,
+	"label":"2021-11-04",
+	"stage":"date",
+	"code":"2021-11-04",
+	"sort":370,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-04",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226371",
+	"sid":640747,
+	"label":"2021-11-05",
+	"stage":"date",
+	"code":"2021-11-05",
+	"sort":371,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-05",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226372",
+	"sid":642066,
+	"label":"2021-11-06",
+	"stage":"date",
+	"code":"2021-11-06",
+	"sort":372,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226373",
+	"sid":642072,
+	"label":"2021-11-07",
+	"stage":"date",
+	"code":"2021-11-07",
+	"sort":373,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-07",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122648",
+	"sid":642077,
+	"label":"Vuosi 2021 Viikko 45",
+	"stage":"week",
+	"code":"2021W45",
+	"sort":48,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W45",
+	"children": [
+{
+	"id":"dateweek20201226374",
+	"sid":642078,
+	"label":"2021-11-08",
+	"stage":"date",
+	"code":"2021-11-08",
+	"sort":374,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-08",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226375",
+	"sid":642080,
+	"label":"2021-11-09",
+	"stage":"date",
+	"code":"2021-11-09",
+	"sort":375,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-09",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226376",
+	"sid":642102,
+	"label":"2021-11-10",
+	"stage":"date",
+	"code":"2021-11-10",
+	"sort":376,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-10",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226377",
+	"sid":642683,
+	"label":"2021-11-11",
+	"stage":"date",
+	"code":"2021-11-11",
+	"sort":377,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-11",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226378",
+	"sid":642753,
+	"label":"2021-11-12",
+	"stage":"date",
+	"code":"2021-11-12",
+	"sort":378,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-12",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226379",
+	"sid":642786,
+	"label":"2021-11-13",
+	"stage":"date",
+	"code":"2021-11-13",
+	"sort":379,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-13",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226380",
+	"sid":642790,
+	"label":"2021-11-14",
+	"stage":"date",
+	"code":"2021-11-14",
+	"sort":380,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-14",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122649",
+	"sid":642795,
+	"label":"Vuosi 2021 Viikko 46",
+	"stage":"week",
+	"code":"2021W46",
+	"sort":49,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W46",
+	"children": [
+{
+	"id":"dateweek20201226381",
+	"sid":642794,
+	"label":"2021-11-15",
+	"stage":"date",
+	"code":"2021-11-15",
+	"sort":381,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-15",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226382",
+	"sid":642798,
+	"label":"2021-11-16",
+	"stage":"date",
+	"code":"2021-11-16",
+	"sort":382,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-16",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226383",
+	"sid":642857,
+	"label":"2021-11-17",
+	"stage":"date",
+	"code":"2021-11-17",
+	"sort":383,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-17",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226384",
+	"sid":642865,
+	"label":"2021-11-18",
+	"stage":"date",
+	"code":"2021-11-18",
+	"sort":384,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-18",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226385",
+	"sid":650913,
+	"label":"2021-11-19",
+	"stage":"date",
+	"code":"2021-11-19",
+	"sort":385,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-19",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226386",
+	"sid":650917,
+	"label":"2021-11-20",
+	"stage":"date",
+	"code":"2021-11-20",
+	"sort":386,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-20",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226387",
+	"sid":650932,
+	"label":"2021-11-21",
+	"stage":"date",
+	"code":"2021-11-21",
+	"sort":387,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-21",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122650",
+	"sid":650935,
+	"label":"Vuosi 2021 Viikko 47",
+	"stage":"week",
+	"code":"2021W47",
+	"sort":50,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W47",
+	"children": [
+{
+	"id":"dateweek20201226388",
+	"sid":650936,
+	"label":"2021-11-22",
+	"stage":"date",
+	"code":"2021-11-22",
+	"sort":388,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-22",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226389",
+	"sid":650949,
+	"label":"2021-11-23",
+	"stage":"date",
+	"code":"2021-11-23",
+	"sort":389,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-23",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226390",
+	"sid":650957,
+	"label":"2021-11-24",
+	"stage":"date",
+	"code":"2021-11-24",
+	"sort":390,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-24",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226391",
+	"sid":650961,
+	"label":"2021-11-25",
+	"stage":"date",
+	"code":"2021-11-25",
+	"sort":391,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-25",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226392",
+	"sid":651352,
+	"label":"2021-11-26",
+	"stage":"date",
+	"code":"2021-11-26",
+	"sort":392,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-26",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226393",
+	"sid":651362,
+	"label":"2021-11-27",
+	"stage":"date",
+	"code":"2021-11-27",
+	"sort":393,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-27",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226394",
+	"sid":651369,
+	"label":"2021-11-28",
+	"stage":"date",
+	"code":"2021-11-28",
+	"sort":394,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-28",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122651",
+	"sid":651376,
+	"label":"Vuosi 2021 Viikko 48",
+	"stage":"week",
+	"code":"2021W48",
+	"sort":51,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W48",
+	"children": [
+{
+	"id":"dateweek20201226395",
+	"sid":651375,
+	"label":"2021-11-29",
+	"stage":"date",
+	"code":"2021-11-29",
+	"sort":395,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-29",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226396",
+	"sid":651377,
+	"label":"2021-11-30",
+	"stage":"date",
+	"code":"2021-11-30",
+	"sort":396,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-11-30",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226397",
+	"sid":651386,
+	"label":"2021-12-01",
+	"stage":"date",
+	"code":"2021-12-01",
+	"sort":397,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-01",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226398",
+	"sid":651454,
+	"label":"2021-12-02",
+	"stage":"date",
+	"code":"2021-12-02",
+	"sort":398,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-02",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226399",
+	"sid":651455,
+	"label":"2021-12-03",
+	"stage":"date",
+	"code":"2021-12-03",
+	"sort":399,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-03",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226400",
+	"sid":651467,
+	"label":"2021-12-04",
+	"stage":"date",
+	"code":"2021-12-04",
+	"sort":400,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-04",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226401",
+	"sid":651469,
+	"label":"2021-12-05",
+	"stage":"date",
+	"code":"2021-12-05",
+	"sort":401,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-05",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122652",
+	"sid":651491,
+	"label":"Vuosi 2021 Viikko 49",
+	"stage":"week",
+	"code":"2021W49",
+	"sort":52,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W49",
+	"children": [
+{
+	"id":"dateweek20201226402",
+	"sid":651490,
+	"label":"2021-12-06",
+	"stage":"date",
+	"code":"2021-12-06",
+	"sort":402,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226403",
+	"sid":651493,
+	"label":"2021-12-07",
+	"stage":"date",
+	"code":"2021-12-07",
+	"sort":403,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-07",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226404",
+	"sid":651505,
+	"label":"2021-12-08",
+	"stage":"date",
+	"code":"2021-12-08",
+	"sort":404,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-08",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226405",
+	"sid":651511,
+	"label":"2021-12-09",
+	"stage":"date",
+	"code":"2021-12-09",
+	"sort":405,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-09",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226406",
+	"sid":651526,
+	"label":"2021-12-10",
+	"stage":"date",
+	"code":"2021-12-10",
+	"sort":406,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-10",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226407",
+	"sid":651535,
+	"label":"2021-12-11",
+	"stage":"date",
+	"code":"2021-12-11",
+	"sort":407,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-11",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226408",
+	"sid":651645,
+	"label":"2021-12-12",
+	"stage":"date",
+	"code":"2021-12-12",
+	"sort":408,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-12",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122653",
+	"sid":651652,
+	"label":"Vuosi 2021 Viikko 50",
+	"stage":"week",
+	"code":"2021W50",
+	"sort":53,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W50",
+	"children": [
+{
+	"id":"dateweek20201226409",
+	"sid":651651,
+	"label":"2021-12-13",
+	"stage":"date",
+	"code":"2021-12-13",
+	"sort":409,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-13",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226410",
+	"sid":651659,
+	"label":"2021-12-14",
+	"stage":"date",
+	"code":"2021-12-14",
+	"sort":410,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-14",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226411",
+	"sid":651662,
+	"label":"2021-12-15",
+	"stage":"date",
+	"code":"2021-12-15",
+	"sort":411,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-15",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226412",
+	"sid":652126,
+	"label":"2021-12-16",
+	"stage":"date",
+	"code":"2021-12-16",
+	"sort":412,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-16",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226413",
+	"sid":652312,
+	"label":"2021-12-17",
+	"stage":"date",
+	"code":"2021-12-17",
+	"sort":413,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-17",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226414",
+	"sid":652472,
+	"label":"2021-12-18",
+	"stage":"date",
+	"code":"2021-12-18",
+	"sort":414,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-18",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226415",
+	"sid":652474,
+	"label":"2021-12-19",
+	"stage":"date",
+	"code":"2021-12-19",
+	"sort":415,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-19",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122654",
+	"sid":652485,
+	"label":"Vuosi 2021 Viikko 51",
+	"stage":"week",
+	"code":"2021W51",
+	"sort":54,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W51",
+	"children": [
+{
+	"id":"dateweek20201226416",
+	"sid":652486,
+	"label":"2021-12-20",
+	"stage":"date",
+	"code":"2021-12-20",
+	"sort":416,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-20",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226417",
+	"sid":652487,
+	"label":"2021-12-21",
+	"stage":"date",
+	"code":"2021-12-21",
+	"sort":417,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-21",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226418",
+	"sid":660585,
+	"label":"2021-12-22",
+	"stage":"date",
+	"code":"2021-12-22",
+	"sort":418,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-22",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226419",
+	"sid":660588,
+	"label":"2021-12-23",
+	"stage":"date",
+	"code":"2021-12-23",
+	"sort":419,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-23",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226420",
+	"sid":660590,
+	"label":"2021-12-24",
+	"stage":"date",
+	"code":"2021-12-24",
+	"sort":420,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-24",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226421",
+	"sid":660591,
+	"label":"2021-12-25",
+	"stage":"date",
+	"code":"2021-12-25",
+	"sort":421,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-25",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226422",
+	"sid":660596,
+	"label":"2021-12-26",
+	"stage":"date",
+	"code":"2021-12-26",
+	"sort":422,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-26",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122655",
+	"sid":660599,
+	"label":"Vuosi 2021 Viikko 52",
+	"stage":"week",
+	"code":"2021W52",
+	"sort":55,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2021W52",
+	"children": [
+{
+	"id":"dateweek20201226423",
+	"sid":660600,
+	"label":"2021-12-27",
+	"stage":"date",
+	"code":"2021-12-27",
+	"sort":423,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-27",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226424",
+	"sid":660605,
+	"label":"2021-12-28",
+	"stage":"date",
+	"code":"2021-12-28",
+	"sort":424,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-28",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226425",
+	"sid":660610,
+	"label":"2021-12-29",
+	"stage":"date",
+	"code":"2021-12-29",
+	"sort":425,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-29",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226426",
+	"sid":660613,
+	"label":"2021-12-30",
+	"stage":"date",
+	"code":"2021-12-30",
+	"sort":426,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-30",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226427",
+	"sid":660620,
+	"label":"2021-12-31",
+	"stage":"date",
+	"code":"2021-12-31",
+	"sort":427,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2021-12-31",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226428",
+	"sid":660623,
+	"label":"2022-01-01",
+	"stage":"date",
+	"code":"2022-01-01",
+	"sort":428,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2022-01-01",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226429",
+	"sid":660697,
+	"label":"2022-01-02",
+	"stage":"date",
+	"code":"2022-01-02",
+	"sort":429,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2022-01-02",
+	"children": []
+
+}]
+},
+{
+	"id":"dateweek2020122656",
+	"sid":660832,
+	"label":"Vuosi 2022 Viikko 01",
+	"stage":"week",
+	"code":"2022W01",
+	"sort":56,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/week/2022W01",
+	"children": [
+{
+	"id":"dateweek20201226430",
+	"sid":660831,
+	"label":"2022-01-03",
+	"stage":"date",
+	"code":"2022-01-03",
+	"sort":430,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2022-01-03",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226431",
+	"sid":660835,
+	"label":"2022-01-04",
+	"stage":"date",
+	"code":"2022-01-04",
+	"sort":431,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2022-01-04",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226432",
+	"sid":660850,
+	"label":"2022-01-05",
+	"stage":"date",
+	"code":"2022-01-05",
+	"sort":432,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2022-01-05",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226433",
+	"sid":660866,
+	"label":"2022-01-06",
+	"stage":"date",
+	"code":"2022-01-06",
+	"sort":433,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2022-01-06",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226434",
+	"sid":660877,
+	"label":"2022-01-07",
+	"stage":"date",
+	"code":"2022-01-07",
+	"sort":434,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2022-01-07",
+	"children": []
+
+},
+{
+	"id":"dateweek20201226435",
+	"sid":660880,
+	"label":"2022-01-08",
+	"stage":"date",
+	"code":"2022-01-08",
+	"sort":435,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/dateweek20201226/1/date/2022-01-08",
+	"children": []
+
+}]
+}]
+}]},
+{
+	"id":"cov_vac_age",
+	"label":"Ikä",
+	"children": [
+{
+	"id":"cov_vac_age1",
+	"sid":518413,
+	"label":"Kaikki iät",
+	"stage":"root",
+	"code":"allages",
+	"sort":1,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/root/allages",
+	"children": [
+{
+	"id":"cov_vac_age2",
+	"sid":637342,
+	"label":"-11",
+	"stage":"ikaryhma12",
+	"code":"-11",
+	"sort":2,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma12/-11",
+	"children": [
+{
+	"id":"cov_vac_age4",
+	"sid":590256,
+	"label":"0-11",
+	"stage":"ikaryhma",
+	"code":"0-11",
+	"sort":4,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/0-11",
+	"children": []
+
+}]
+},
+{
+	"id":"cov_vac_age3",
+	"sid":630311,
+	"label":"12+",
+	"stage":"ikaryhma12",
+	"code":"12+",
+	"sort":3,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma12/12+",
+	"children": [
+{
+	"id":"cov_vac_age5",
+	"sid":610735,
+	"label":"12-15",
+	"stage":"ikaryhma",
+	"code":"12-15",
+	"sort":5,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/12-15",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age6",
+	"sid":610734,
+	"label":"16-19",
+	"stage":"ikaryhma",
+	"code":"16-19",
+	"sort":6,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/16-19",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age7",
+	"sid":533184,
+	"label":"20-24",
+	"stage":"ikaryhma",
+	"code":"20-24",
+	"sort":7,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/20-24",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age8",
+	"sid":533177,
+	"label":"25-29",
+	"stage":"ikaryhma",
+	"code":"25-29",
+	"sort":8,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/25-29",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age9",
+	"sid":533181,
+	"label":"30-34",
+	"stage":"ikaryhma",
+	"code":"30-34",
+	"sort":9,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/30-34",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age10",
+	"sid":533162,
+	"label":"35-39",
+	"stage":"ikaryhma",
+	"code":"35-39",
+	"sort":10,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/35-39",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age11",
+	"sid":533171,
+	"label":"40-44",
+	"stage":"ikaryhma",
+	"code":"40-44",
+	"sort":11,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/40-44",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age12",
+	"sid":533169,
+	"label":"45-49",
+	"stage":"ikaryhma",
+	"code":"45-49",
+	"sort":12,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/45-49",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age13",
+	"sid":533182,
+	"label":"50-54",
+	"stage":"ikaryhma",
+	"code":"50-54",
+	"sort":13,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/50-54",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age14",
+	"sid":533176,
+	"label":"55-59",
+	"stage":"ikaryhma",
+	"code":"55-59",
+	"sort":14,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/55-59",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age15",
+	"sid":533173,
+	"label":"60-64",
+	"stage":"ikaryhma",
+	"code":"60-64",
+	"sort":15,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/60-64",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age16",
+	"sid":533183,
+	"label":"65-69",
+	"stage":"ikaryhma",
+	"code":"65-69",
+	"sort":16,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/65-69",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age17",
+	"sid":533179,
+	"label":"70-74",
+	"stage":"ikaryhma",
+	"code":"70-74",
+	"sort":17,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/70-74",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age18",
+	"sid":533178,
+	"label":"75-79",
+	"stage":"ikaryhma",
+	"code":"75-79",
+	"sort":18,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/75-79",
+	"children": []
+
+},
+{
+	"id":"cov_vac_age19",
+	"sid":533166,
+	"label":"80+",
+	"stage":"ikaryhma",
+	"code":"80+",
+	"sort":19,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_age/1/ikaryhma/80+",
+	"children": []
+
+}]
+}]
+}]},
+{
+	"id":"cov_vac_dose",
+	"label":"Rokotusannos",
+	"children": [
+{
+	"id":"cov_vac_dose1",
+	"sid":533174,
+	"label":"Kaikki annokset",
+	"stage":"root",
+	"code":"alldoses",
+	"sort":1,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_dose/1/root/alldoses",
+	"children": [
+{
+	"id":"cov_vac_dose2",
+	"sid":533170,
+	"label":"Ensimmäinen annos",
+	"stage":"annos",
+	"code":"1",
+	"sort":2,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_dose/1/annos/1",
+	"children": []
+
+},
+{
+	"id":"cov_vac_dose3",
+	"sid":533164,
+	"label":"Toinen annos",
+	"stage":"annos",
+	"code":"2",
+	"sort":3,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_dose/1/annos/2",
+	"children": []
+
+},
+{
+	"id":"cov_vac_dose4",
+	"sid":639082,
+	"label":"Kolmas annos",
+	"stage":"annos",
+	"code":"3",
+	"sort":4,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/cov_vac_dose/1/annos/3",
+	"children": []
+
+}]
+}]},
+{
+	"id":"vacprod",
+	"label":"Tuote",
+	"children": [
+{
+	"id":"vacprod1",
+	"sid":533726,
+	"label":"Kaikki tuotteet",
+	"stage":"root",
+	"code":"allprod",
+	"sort":1,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/vacprod/1/root/allprod",
+	"children": [
+{
+	"id":"vacprod2",
+	"sid":533729,
+	"label":"Comirnaty (BioNTech)",
+	"stage":"product",
+	"code":"103",
+	"sort":2,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/vacprod/1/product/103",
+	"children": []
+
+},
+{
+	"id":"vacprod3",
+	"sid":533761,
+	"label":"Spikevax (MODERNA)",
+	"stage":"product",
+	"code":"104",
+	"sort":3,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/vacprod/1/product/104",
+	"children": []
+
+},
+{
+	"id":"vacprod4",
+	"sid":547315,
+	"label":"COVID-19 Vaccine Janssen (JANSSEN-CILAG)",
+	"stage":"product",
+	"code":"106",
+	"sort":4,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/vacprod/1/product/106",
+	"children": []
+
+},
+{
+	"id":"vacprod5",
+	"sid":533741,
+	"label":"Vaxzevria (AstraZeneca)",
+	"stage":"product",
+	"code":"105",
+	"sort":5,
+	"uri":"http://meta.thl.fi/codes/wild/dimension/vacprod/1/product/105",
+	"children": []
+
+}]
+}]},
+{
+	"id":"measure",
+	"label":"Mittari",
+	"children": [
+{
+	"id":"measure",
+	"sid":141082,
+	"label":"Mittarit",
+	"stage":"root",
+	"sort":1,
+	"uri":"http://meta.thl.fi/codes/wild/measure/root/1/",
+	"children": [
+{
+	"id":"measure/COVDOSE",
+	"sid":533175,
+	"label":"Annettuja annoksia",
+	"stage":"leaf",
+	"sort":3,
+	"decimals":0,
+	"uri":"http://meta.thl.fi/codes/wild/measure/COVDOSE/1/leaf",
+	"children": []
+
+},
+{
+	"id":"measure/COVHLO",
+	"sid":533172,
+	"label":"Rokotettuja henkilöitä",
+	"stage":"leaf",
+	"sort":4,
+	"decimals":0,
+	"uri":"http://meta.thl.fi/codes/wild/measure/COVHLO/1/leaf",
+	"children": []
+
+},
+{
+	"id":"measure/POP",
+	"sid":433796,
+	"label":"Asukkaita",
+	"stage":"leaf",
+	"sort":5,
+	"decimals":0,
+	"uri":"http://meta.thl.fi/codes/wild/measure/POP/1/leaf",
+	"children": []
+
+},
+{
+	"id":"measure/COVCOV",
+	"sid":533185,
+	"label":"Rokotuskattavuus",
+	"stage":"leaf",
+	"sort":6,
+	"decimals":1,
+	"uri":"http://meta.thl.fi/codes/wild/measure/COVCOV/1/leaf",
+	"children": []
+
+}]
+}]}]
