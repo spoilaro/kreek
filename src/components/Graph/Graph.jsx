@@ -24,7 +24,7 @@ export default function Graph({ place }) {
 
       const res = await get_thl_data(place);
 
-      for (const [key, value] of Object.entries(res.data.value)) {
+      for (const [key, value] of Object.entries(res.data.vaccine_data.value)) {
         //parsed_data.push({ key, value: value / 5.531 });
         parsed_data.push({ key: `Week ${key}`, value });
       }
@@ -45,7 +45,6 @@ export default function Graph({ place }) {
         height: "fit-content",
         padding: "30px",
         margin: "10px",
-
       }}
     >
       <h3>Rokotuskattavuus (%)</h3>
