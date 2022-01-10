@@ -28,22 +28,3 @@ export default function Navbar({ searchFn }) {
     </div>
   );
 }
-
-//<div className="searchBarDiv">
-//<form
-//onSubmit={(e) => {
-//e.preventDefault();
-//searchFn(searchText);
-//}}
-//>
-//<input
-//type="text"
-//className="searchBarInput"
-//value={searchText}
-//onChange={handleChange}
-//></input>
-//<button className="searchBarButton" type="submit">
-//Etsi
-//</button>
-//</form>
-//</div>
