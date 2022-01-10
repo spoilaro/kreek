@@ -23,14 +23,19 @@ export default function Graph({ place }) {
       let parsed_data = [];
 
       const res = await get_thl_data(place);
+      let percent_data = 0;
 
       for (const [key, value] of Object.entries(res.data.vaccine_data.value)) {
-        //parsed_data.push({ key, value: value / 5.531 });
-        parsed_data.push({ key: `Week ${key}`, value });
+        const whole_pop = res.data.pop_data.value["56"];
+        percent_data = (value / whole_pop) * 100 + percent_data;
+        parsed_data.push({
+          key: `Week ${key}`,
+          amount: value,
+          part: Math.round(percent_data),
+        });
       }
       parsed_data.pop();
       set_thl_data(parsed_data);
-      console.log(parsed_data);
     }
     fetchData();
   }, [place]);
@@ -55,9 +60,9 @@ export default function Graph({ place }) {
             <stop offset="75%" stopColor="pink" stopOpacity={0.05} />
           </linearGradient>
         </defs>
-        <Area dataKey="value" stroke="red" fill="url(#chartcolor)" />
+        <Area dataKey="part" stroke="red" fill="url(#chartcolor)" />
         <XAxis dataKey="key" />
-        <YAxis dataKey="value" type="number" domain={[0, 20000]} />
+        <YAxis dataKey="part" type="number" domain={[0, 100]} />
         <Tooltip />
         <CartesianGrid opacity={0.1} vertical={false} />
       </AreaChart>
