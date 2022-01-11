@@ -22,6 +22,19 @@
   background-color: var(--main-bg-color);
 }
 
+
+.newsBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
 .newsCard {
   color: var(--text-color);
   height: 50vh;
@@ -46,7 +59,7 @@
 .news-list {
   display: flex;
   list-style: none;
-  width: 80%;
+  width: 90%;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -58,7 +71,8 @@
   display: flex;
   flex-direction: column;
   border: 1px solid white;
-  margin-bottom: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
   border-radius: 5px;
 }
 
