@@ -28,7 +28,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: fit-content;
+  max-width: 40%;
   height: fit-content;
   color: white;
   margin: 0px;
@@ -48,7 +48,6 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  max-width: 40%;
   width: fit-content;
   overflow-x: hidden;
 }
@@ -59,20 +58,19 @@
 .news-list {
   display: flex;
   list-style: none;
-  width: 90%;
+
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 0px;
+  padding: 40px;
   margin: 0px;
+  gap: 30px;
 }
 
 .news-item {
   display: flex;
   flex-direction: column;
   border: 1px solid white;
-  margin-top: 15px;
-  margin-bottom: 15px;
   border-radius: 5px;
 }
 
