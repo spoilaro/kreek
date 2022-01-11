@@ -32,7 +32,12 @@ export default function NewsCard() {
   }, []);
 
   const listArticles = articles.map((elem, key) => (
-    <li key={key}>{`Title: ${elem.title} and link: ${elem.link}`}</li>
+    <li className="news-item" key={key}>
+      <h4 className="news-header">{elem.title}</h4>
+      <a className="news-link" href={elem.link}>
+        Avaa uutinen
+      </a>
+    </li>
   ));
 
   return (
