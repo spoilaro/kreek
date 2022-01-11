@@ -43,7 +43,7 @@ export default function Graph({ place }) {
 
   return (
     <div className="graph-container">
-      <h3>Rokotuskattavuus (%)</h3>
+      <h3>Rokotuskattavuus</h3>
       <ResponsiveContainer width="100%" height="100%">
         <AreaChart width={400} height={300} data={thl_data}>
           <defs>
@@ -71,6 +71,7 @@ export default function Graph({ place }) {
             dataKey="part"
             type="number"
             domain={[0, 100]}
+            tickFormatter={(num) => `${num}%`}
           />
           <Tooltip />
           <CartesianGrid opacity={0.1} vertical={false} />
