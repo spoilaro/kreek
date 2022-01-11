@@ -44,36 +44,38 @@ export default function Graph({ place }) {
   return (
     <div className="graph-container">
       <h3>Rokotuskattavuus (%)</h3>
-      <AreaChart width={300} height={300} data={thl_data}>
-        <defs>
-          <linearGradient id="chartcolor" x1="0" y1="0" x2="0" y2="1">
-            <stop
-              offset="0%"
-              stopColor="var(--graph-fill-color)"
-              stopOpacity={0.4}
-            />
-            <stop
-              offset="75%"
-              stopColor="var(--graph-fill-color)"
-              stopOpacity={0.05}
-            />
-          </linearGradient>
-        </defs>
-        <Area
-          dataKey="part"
-          stroke="var(--graph-stroke)"
-          fill="url(#chartcolor)"
-        />
-        <XAxis stroke="var(--text-color)" dataKey="key" />
-        <YAxis
-          stroke="var(--text-color)"
-          dataKey="part"
-          type="number"
-          domain={[0, 100]}
-        />
-        <Tooltip />
-        <CartesianGrid opacity={0.1} vertical={false} />
-      </AreaChart>
+      <ResponsiveContainer width="100%" height="100%">
+        <AreaChart width={400} height={300} data={thl_data}>
+          <defs>
+            <linearGradient id="chartcolor" x1="0" y1="0" x2="0" y2="1">
+              <stop
+                offset="0%"
+                stopColor="var(--graph-fill-color)"
+                stopOpacity={0.4}
+              />
+              <stop
+                offset="75%"
+                stopColor="var(--graph-fill-color)"
+                stopOpacity={0.05}
+              />
+            </linearGradient>
+          </defs>
+          <Area
+            dataKey="part"
+            stroke="var(--graph-stroke)"
+            fill="url(#chartcolor)"
+          />
+          <XAxis stroke="var(--text-color)" dataKey="key" />
+          <YAxis
+            stroke="var(--text-color)"
+            dataKey="part"
+            type="number"
+            domain={[0, 100]}
+          />
+          <Tooltip />
+          <CartesianGrid opacity={0.1} vertical={false} />
+        </AreaChart>
+      </ResponsiveContainer>
     </div>
   );
 }
