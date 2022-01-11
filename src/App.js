@@ -13,8 +13,8 @@ function App() {
     <div id="app">
       <Navbar searchFn={setSearchWord} />
       <div className="content">
-        <Graph place={searchWord} />
         <NewsCard />
+        <Graph place={searchWord} />
       </div>
     </div>
   );
