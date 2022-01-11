@@ -21,7 +21,7 @@ export default function NewsCard() {
           items.forEach((elem) => {
             //elem.category.includes("koronavirus");
             if (elem.category.includes("koronavirus")) {
-              parsed_items.push({ title: elem.title, link: elem.guid });
+              parsed_items.push({ title: elem.title, link: elem.guid, date: new Date(elem.pubDate) });
             }
           });
           setArticles(parsed_items);
@@ -32,12 +32,12 @@ export default function NewsCard() {
   }, []);
 
   const listArticles = articles.map((elem, key) => (
-    <li className="news-item" key={key}>
-      <h4 className="news-header">{elem.title}</h4>
       <a className="news-link" href={elem.link}>
-        Avaa uutinen
+        <li className="news-item" key={key}>
+          <h4 className="news-header">{elem.title}</h4>
+          <h5 className="news-date">{elem.date.toLocaleDateString("fi-FI")}</h5>
+        </li>
       </a>
-    </li>
   ));
 
   return (
