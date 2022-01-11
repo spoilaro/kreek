@@ -5,6 +5,7 @@ import NewsCard from "./components/NewsCard/NewsCard";
 import { useState } from "react";
 
 import "./globals.css";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   const [searchWord, setSearchWord] = useState("");
@@ -16,6 +17,7 @@ function App() {
         <NewsCard />
         <Graph place={searchWord} />
       </div>
+      <Footer />
     </div>
   );
 }

@@ -79,3 +79,14 @@
   padding: 30px;
   margin: 10px;
 }
+
+#footer {
+  color: var(--text-color);
+  position: fixed;
+  background-color: var(--nav-bar-color);
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  min-height: 10vh;
+}
