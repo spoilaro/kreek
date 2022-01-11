@@ -1,0 +1,59 @@
+:root {
+  --main-bg-color: rgb(130, 121, 255);
+  --nav-bar-color: #1f3480;
+  --text-color: white;
+  --graph-bg-color: blue;
+}
+
+#app {
+  width: 100%;
+  height: 100vh;
+  background-color: var(--main-bg-color);
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.newsCard {
+  background-color: gray;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+  height: 50vh;
+  border-radius: 1ch;
+  padding: 5px;
+  overflow-y: scroll;
+}
+
+.news-list {
+  align-items: center;
+  justify-content: center;
+}
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: var(--nav-bar-color);
+  width: 100%;
+  color: var(--text-color);
+}
+
+.dropdown {
+  min-width: 300px;
+}
+
+.graph-container {
+  background-color: var(--graph-bg-color);
+  font-size: 1rem;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 30px;
+  margin: 10px;
+}

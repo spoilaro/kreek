@@ -6,6 +6,7 @@ import {
   YAxis,
   Area,
   CartesianGrid,
+  ResponsiveContainer,
 } from "recharts";
 import axios from "axios";
 
@@ -42,18 +43,11 @@ export default function Graph({ place }) {
 
   return (
     <div
-      style={{
-        fontSize: "1rem",
-        border: "2px solid black",
-        borderRadius: "5px",
-        width: "fit-content",
-        height: "fit-content",
-        padding: "30px",
-        margin: "10px",
-      }}
+      className="graph-container"
+      
     >
       <h3>Rokotuskattavuus (%)</h3>
-      <AreaChart width={600} height={500} data={thl_data}>
+      <AreaChart width={400} height={400} data={thl_data}>
         <defs>
           <linearGradient id="chartcolor" x1="0" y1="0" x2="0" y2="1">
             <stop offset="0%" stopColor="pink" stopOpacity={0.4} />

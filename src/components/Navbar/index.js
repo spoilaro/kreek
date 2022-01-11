@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./style.css";
 import Dropdown from "react-dropdown";
 import "react-dropdown/style.css";
 import axios from "axios";
@@ -24,7 +23,7 @@ export default function Navbar({ searchFn }) {
   return (
     <div className="navBar">
       <h1 className="title">KREEK</h1>
-      <Dropdown options={places} onChange={handleChange} />
+      <Dropdown className="dropdown" options={places} onChange={handleChange} />
     </div>
   );
 }

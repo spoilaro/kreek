@@ -4,17 +4,20 @@ import Graph from "./components/Graph";
 import NewsCard from "./components/NewsCard/NewsCard";
 import { useState } from "react";
 
+import "./globals.css";
+
 function App() {
   const [searchWord, setSearchWord] = useState("");
 
   return (
-    <div>
+    <div id="app">
       <Navbar searchFn={setSearchWord} />
-      <Graph place={searchWord} />
-      <NewsCard/>
+      <div className="content">
+        <Graph place={searchWord} />
+        <NewsCard />
+      </div>
     </div>
   );
 }
-
 
 export default App;

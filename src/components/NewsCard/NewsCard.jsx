@@ -1,4 +1,3 @@
-import "./newsCard.css";
 import axios from "axios";
 import { XMLParser } from "fast-xml-parser";
 import { useState, useEffect } from "react";
@@ -39,7 +38,7 @@ export default function NewsCard() {
   return (
     <div className="newsCard">
       <h1>Uutiset</h1>
-      <ul className="list">{listArticles}</ul>
+      <ul className="news-list">{listArticles}</ul>
     </div>
   );
 }
