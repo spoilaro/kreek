@@ -24,11 +24,11 @@ export default function Graph({ place }) {
       let parsed_data = [];
 
       const res = await get_thl_data(place);
+      let pop_data = res.data.pop_data[place];
       let percent_data = 0;
 
       for (const [key, value] of Object.entries(res.data.vaccine_data.value)) {
-        const whole_pop = res.data.pop_data.value["56"];
-        percent_data = (value / whole_pop) * 100 + percent_data;
+        percent_data = (value / pop_data) * 100 + percent_data;
         parsed_data.push({
           key: `Week ${key}`,
           amount: value,
