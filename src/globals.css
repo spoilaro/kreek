@@ -60,9 +60,6 @@
   border: 1px solid white;
   margin-bottom: 20px;
   border-radius: 5px;
-
-
-
 }
 
 .news-link {
@@ -81,6 +78,7 @@
   width: 100%;
   color: var(--text-color);
   height: 100px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 .dropdown {
@@ -108,4 +106,5 @@
   left: 0;
   text-align: center;
   height: 100px;
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
 }

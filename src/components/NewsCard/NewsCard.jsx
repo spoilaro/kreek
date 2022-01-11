@@ -42,7 +42,7 @@ export default function NewsCard() {
 
   return (
     <div className="newsCard">
-      <h1>Uutiset</h1>
+      <h1>Yle Uutiset</h1>
       <ul className="news-list">{listArticles}</ul>
     </div>
   );
