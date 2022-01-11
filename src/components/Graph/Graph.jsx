@@ -44,7 +44,7 @@ export default function Graph({ place }) {
   return (
     <div className="graph-container">
       <h3>Rokotuskattavuus (%)</h3>
-      <AreaChart width={400} height={400} data={thl_data}>
+      <AreaChart width={300} height={300} data={thl_data}>
         <defs>
           <linearGradient id="chartcolor" x1="0" y1="0" x2="0" y2="1">
             <stop
