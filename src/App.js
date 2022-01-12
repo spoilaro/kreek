@@ -11,10 +11,16 @@ function App() {
   const [searchWord, setSearchWord] = useState("");
   const [showNews, setShowNews] = useState(true);
 
+  let toggleNews = () => {
+    setShowNews(!showNews);
+    
+  }
+
   return (
     <div id="app">
-      <Navbar searchFn={setSearchWord} />
+      <Navbar searchFn={setSearchWord} toggleNews={toggleNews} showNews={showNews}/>
       <div className="content">
+        
         {(showNews == true) ? <NewsCard /> : <></>}
         <Graph place={searchWord} />
       </div>

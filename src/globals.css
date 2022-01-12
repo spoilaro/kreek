@@ -92,6 +92,18 @@
   border-bottom: 1px solid rgba(0, 0, 0, 0.3);
 }
 
+.toggle-button {
+  background-color: rgba(0, 255, 255, 0);
+  color: white;
+  border-radius: 10px;
+  font-size: 18px;
+  padding: 10px;
+  border-color: aqua;
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.10),
+    -8px -8px 12px 0 rgba(57, 112, 138, 0.10);
+}
+
 .dropdown {
   min-width: 300px;
 }
