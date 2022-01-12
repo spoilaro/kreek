@@ -41,6 +41,20 @@ export default function Graph({ place }) {
     fetchData();
   }, [place]);
 
+
+  const CustomTooltip = ({active, payload, label}) => {
+    if (active && payload && payload.length) {
+      return (
+        <div className="custom-tooltip">
+          <p className="label">{`${label}`}</p>
+          <p className="label-percent">{`${payload[0].value}%`}</p>
+        </div>
+      );
+    }
+    return null;
+  };
+
+
   return (
     <div className="graph-container">
       <h3>Rokotuskattavuus (%)</h3>
@@ -72,7 +86,7 @@ export default function Graph({ place }) {
             type="number"
             domain={[0, 100]}
           />
-          <Tooltip />
+          <Tooltip content={<CustomTooltip/>}/>
           <CartesianGrid opacity={0.1} vertical={false} />
         </AreaChart>
       </ResponsiveContainer>
