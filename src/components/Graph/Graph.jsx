@@ -10,7 +10,7 @@ import {
 } from "recharts";
 import axios from "axios";
 
-const get_thl_data = async (place_name) => {
+const getThlData = async (place_name) => {
   const url = "https://kreek.netlify.app/.netlify/functions/data";
   const res = await axios.get(url, { params: { place: place_name } });
   return res;
@@ -23,7 +23,7 @@ export default function Graph({ place }) {
     async function fetchData() {
       let parsed_data = [];
 
-      const res = await get_thl_data(place);
+      const res = await getThlData(place);
       let pop_data = res.data.pop_data[place];
       let percent_data = 0;
 
@@ -41,8 +41,7 @@ export default function Graph({ place }) {
     fetchData();
   }, [place]);
 
-
-  const CustomTooltip = ({active, payload, label}) => {
+  const CustomTooltip = ({ active, payload, label }) => {
     if (active && payload && payload.length) {
       return (
         <div className="custom-tooltip">
@@ -53,7 +52,6 @@ export default function Graph({ place }) {
     }
     return null;
   };
-
 
   return (
     <div className="graph-container">
@@ -87,7 +85,7 @@ export default function Graph({ place }) {
             domain={[0, 100]}
             tickFormatter={(num) => `${num}%`}
           />
-          <Tooltip content={<CustomTooltip/>}/>
+          <Tooltip content={<CustomTooltip />} />
           <CartesianGrid opacity={0.1} vertical={false} />
         </AreaChart>
       </ResponsiveContainer>
