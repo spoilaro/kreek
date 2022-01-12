@@ -1,6 +1,7 @@
 import axios from "axios";
 import { XMLParser } from "fast-xml-parser";
 import { useState, useEffect } from "react";
+import { act } from "react-dom/cjs/react-dom-test-utils.production.min";
 
 export default function NewsCard() {
   const [articles, setArticles] = useState([]);
@@ -31,14 +32,24 @@ export default function NewsCard() {
     //console.log(articles);
   }, []);
 
-  const listArticles = articles.map((elem, key) => (
-      <a className="news-link" href={elem.link}>
-        <li className="news-item" key={key}>
-          <h4 className="news-header">{elem.title}</h4>
-          <h5 className="news-date">{elem.date.toLocaleDateString("fi-FI")}</h5>
-        </li>
-      </a>
-  ));
+  const listArticles = articles.map((elem, key) => 
+  {
+    let actualdate = <h5/>
+    if (key != 0 && articles[key].date.toLocaleDateString("fi-FI") != articles[key-1].date.toLocaleDateString("fi-FI")){
+        actualdate = <h5>{elem.date.toLocaleDateString("fi-FI")}</h5>
+    } else if (key == 0){
+      actualdate = <h5>{elem.date.toLocaleDateString("fi-FI")}</h5>
+    }
+    return(
+    <div>
+      {actualdate}
+        <a className="news-link" href={elem.link}>
+          <li className="news-item" key={key}>
+            <h4 className="news-header">{elem.title}</h4>
+          </li>
+        </a>
+    </div>
+  );})
 
   return (
     <div className="newsBox">
