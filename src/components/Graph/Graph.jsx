@@ -16,7 +16,7 @@ const getThlData = async (place_name) => {
   return res;
 };
 
-export default function Graph({ place }) {
+export default function Graph({ place, styleObj }) {
   const [thl_data, set_thl_data] = useState({});
 
   useEffect(() => {
@@ -54,7 +54,7 @@ export default function Graph({ place }) {
   };
 
   return (
-    <div className="graph-container">
+    <div className="graph-container" style={{width: styleObj.width}}>
       <h3>Rokotuskattavuus</h3>
       <ResponsiveContainer width="100%" height="100%">
         <AreaChart width={400} height={300} data={thl_data}>
