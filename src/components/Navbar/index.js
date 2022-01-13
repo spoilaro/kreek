@@ -13,7 +13,8 @@ export default function Navbar({
   const places = data[0].children[0].children;
 
   places.map((elem) => {
-    elem = elem.label;
+    //elem = elem.label;
+    return elem.label;
   });
 
   const handleChange = (option) => {
@@ -29,7 +30,7 @@ export default function Navbar({
         onClick={toggleNews}
         style={buttonStyle}
       >
-        {showNews == true ? "Piilota uutiset" : "Näytä uutiset "}
+        {showNews === true ? "Piilota uutiset" : "Näytä uutiset "}
       </button>
       <Dropdown
         className="dropdown"

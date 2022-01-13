@@ -1,5 +1,4 @@
 import Navbar from "./components/Navbar";
-/* import Footer from "./components/Footer"; */
 import Graph from "./components/Graph";
 import NewsCard from "./components/NewsCard/NewsCard";
 import { useState } from "react";
