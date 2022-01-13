@@ -4,7 +4,7 @@ import "react-dropdown/style.css";
 import axios from "axios";
 import data from "../../fact_cov19cov.dimensions.json";
 
-export default function Navbar({ searchFn, toggleNews, showNews }) {
+export default function Navbar({ searchFn, toggleNews, showNews, buttonStyle }) {
   const [searchText, setSearchText] = useState("Valitse");
   const places = data[0].children[0].children;
 
@@ -23,7 +23,7 @@ export default function Navbar({ searchFn, toggleNews, showNews }) {
   return (
     <div className="navBar">
       <h1 className="title">KREEK</h1>
-      <button className="toggle-button" onClick={toggleNews}>{(showNews == true) ? "Piilota uutiset" : "Näytä uutiset "}</button>
+      <button className="toggle-button" onClick={toggleNews} style={buttonStyle}>{(showNews == true) ? "Piilota uutiset" : "Näytä uutiset "}</button>
       <Dropdown className="dropdown" options={places} onChange={handleChange} value={"Valitse"}  />
     </div>
   );
