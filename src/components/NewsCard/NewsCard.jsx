@@ -3,7 +3,7 @@ import { XMLParser } from "fast-xml-parser";
 import { useState, useEffect } from "react";
 import { act } from "react-dom/cjs/react-dom-test-utils.production.min";
 
-export default function NewsCard() {
+export default function NewsCard(props) {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
@@ -52,7 +52,7 @@ export default function NewsCard() {
   );})
 
   return (
-    <div className="newsBox">
+    <div className="newsBox" style={props.styleObj}>
       <h1>Yle Uutiset</h1>
       <div className="newsCard">
         <ul className="news-list">{listArticles}</ul>

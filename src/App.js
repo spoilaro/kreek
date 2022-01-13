@@ -10,10 +10,18 @@ import Footer from "./components/Footer/Footer";
 function App() {
   const [searchWord, setSearchWord] = useState("");
   const [showNews, setShowNews] = useState(true);
+  const [newStyle, setNewStyle] = useState({
+    opacity: "1",
+    width: "80vw"
+  });
 
   let toggleNews = () => {
     setShowNews(!showNews);
-    
+    if (showNews) {
+      setNewStyle({opacity: "1"});
+    } else {
+      setNewStyle({opacity: "0", position: "absolute", left: "-700px"});
+    }
   }
 
   return (
@@ -21,8 +29,8 @@ function App() {
       <Navbar searchFn={setSearchWord} toggleNews={toggleNews} showNews={showNews}/>
       <div className="content">
         
-        {(showNews == true) ? <NewsCard /> : <></>}
-        <Graph place={searchWord} />
+        <NewsCard styleObj={newStyle}/>
+        <Graph place={searchWord} styleObj={newStyle}/>
       </div>
       <Footer />
     </div>

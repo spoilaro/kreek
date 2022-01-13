@@ -28,10 +28,13 @@
   justify-content: center;
   align-items: center;
   max-width: 40%;
+  width: 40vw;
   height: fit-content;
   color: white;
   margin: 0px;
   padding: 0px;
+  transition-timing-function: ease-out;
+  transition: 0.25s;
 }
 
 .newsCard {
@@ -112,7 +115,7 @@
   border-radius: 10px;
   font-size: 18px;
   padding: 10px;
-  border-color: aqua;
+  border-color: rgba(255, 255, 255, 0.288);
   box-shadow: 
     12px 12px 16px 0 rgba(0, 0, 0, 0.10),
     -8px -8px 12px 0 rgba(57, 112, 138, 0.10);
