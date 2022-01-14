@@ -2,7 +2,7 @@ import axios from "axios";
 import { XMLParser } from "fast-xml-parser";
 import { useState, useEffect } from "react";
 
-export default function NewsCard(props) {
+export default function NewsCard({ styleObj }) {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
@@ -32,7 +32,7 @@ export default function NewsCard(props) {
   }, []);
 
   const listArticles = articles.map((elem, key) => {
-    let actualdate = <h5>""</h5>;
+    let actualdate = <h5></h5>;
     if (
       key !== 0 &&
       articles[key].date.toLocaleDateString("fi-FI") !==
@@ -55,7 +55,7 @@ export default function NewsCard(props) {
   });
 
   return (
-    <div className="newsBox" style={props.styleObj}>
+    <div className={`newsBox ${styleObj}`}>
       <h1>Yle Uutiset</h1>
       <div className="newsCard">
         <ul className="news-list">{listArticles}</ul>

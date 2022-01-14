@@ -25,18 +25,14 @@ export default function Navbar({
   return (
     <div className="navBar">
       <h1 className="title">KREEK</h1>
-      <button
-        className="toggle-button"
-        onClick={toggleNews}
-        style={buttonStyle}
-      >
+      <button className={`toggle-button ${buttonStyle}`} onClick={toggleNews}>
         {showNews === true ? "Piilota uutiset" : "Näytä uutiset "}
       </button>
       <Dropdown
         className="dropdown"
         options={places}
         onChange={handleChange}
-        value={"Valitse"}
+        placeholder="Valitse"
       />
     </div>
   );

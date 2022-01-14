@@ -54,7 +54,7 @@ export default function Graph({ place, styleObj }) {
   };
 
   return (
-    <div className="graph-container" style={{width: styleObj.width}}>
+    <div className="graph-container" style={{ width: styleObj.width }}>
       <h3>Rokotuskattavuus</h3>
       <ResponsiveContainer width="100%" height="100%">
         <AreaChart width={400} height={300} data={thl_data}>
